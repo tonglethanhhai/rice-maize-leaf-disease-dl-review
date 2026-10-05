@@ -64,11 +64,11 @@ Controlled split experiment (script 34, leakage_experiments/results/*/runs.csv)
 [PASS] GROUP-SPLIT split sizes reproduced from the lenient group file images.csv (runs): (9, 9)
 
 Matched pair at equal training budget (MATCH-CTRL vs MATCH-LEAK)
-[PASS] MATCH-LEAK - MATCH-CTRL test accuracy, ResNet-50: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.56, 1.17, 1.81, 2.71)
-[PASS] seeds per dataset, ResNet-50: (5, 5, 5, 3)
-[PASS] MATCH-LEAK - MATCH-CTRL test accuracy, EfficientNet-B0: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.43, 1.43, 2.66, 2.65)
-[PASS] seeds per dataset, EfficientNet-B0: (3, 3, 3, 3)
+[PASS] MATCH-LEAK - MATCH-CTRL test accuracy, ResNet-50: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.56, 1.17, 1.81, 2.8)
+[PASS] seeds per dataset, ResNet-50: (5, 5, 5, 5)
+[PASS] MATCH-LEAK - MATCH-CTRL test accuracy, EfficientNet-B0: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.47, 1.56, 2.83, 2.63)
+[PASS] seeds per dataset, EfficientNet-B0: (5, 5, 5, 5)
 [PASS] both arms: same validation set, test set and training items per epoch in every run: (8, 8)
-[PASS] PlantVillage maize -> PlantDoc external accuracy, ResNet-50 then EfficientNet-B0 (CTRL, LEAK, %): (29.6, 31.9, 27.0, 34.4)
+[PASS] PlantVillage maize -> PlantDoc external accuracy, ResNet-50 then EfficientNet-B0 (CTRL, LEAK, %): (29.6, 31.9, 27.8, 32.9)
 
 All checks passed.

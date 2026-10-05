@@ -5,3 +5,7 @@ sethy,efficientnet_b0,P3m_offline_matched,2,25182,4197,8394,585,1150,1.0,1.0,1.0
 sethy,efficientnet_b0,P1m_leak_matched,0,31061,4146,8292,549,1237,1.0,1.0,1.0,8,5.0
 sethy,efficientnet_b0,P1m_leak_matched,1,30835,4220,8440,609,1103,1.0,1.0,1.0,6,3.9
 sethy,efficientnet_b0,P1m_leak_matched,2,30932,4197,8394,585,1150,1.0,1.0,1.0,6,3.9
+sethy,efficientnet_b0,P3m_offline_matched,3,25194,4199,8398,557,1176,1.0,0.9983,0.99841,6,7.3
+sethy,efficientnet_b0,P3m_offline_matched,4,25338,4223,8446,591,1118,1.0,0.99106,0.9915,7,7.2
+sethy,efficientnet_b0,P1m_leak_matched,3,31074,4199,8398,557,1176,1.0,1.0,1.0,6,4.1
+sethy,efficientnet_b0,P1m_leak_matched,4,30928,4223,8446,591,1118,1.0,1.0,1.0,10,6.6

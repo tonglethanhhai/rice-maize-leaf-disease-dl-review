@@ -15,25 +15,25 @@
  "protocols": {
   "P1m_leak_matched": {
    "test_acc": {
-    "mean": 0.9889,
-    "sd": 0.0039
+    "mean": 0.9898,
+    "sd": 0.0031
    },
    "test_macro_f1": {
-    "mean": 0.9873,
-    "sd": 0.0067
+    "mean": 0.9885,
+    "sd": 0.005
    },
-   "n_seeds": 3
+   "n_seeds": 5
   },
   "P3m_offline_matched": {
    "test_acc": {
-    "mean": 0.9619,
-    "sd": 0.0046
+    "mean": 0.9618,
+    "sd": 0.0044
    },
    "test_macro_f1": {
-    "mean": 0.9543,
-    "sd": 0.0037
+    "mean": 0.9563,
+    "sd": 0.0055
    },
-   "n_seeds": 3
+   "n_seeds": 5
   }
  }
 }

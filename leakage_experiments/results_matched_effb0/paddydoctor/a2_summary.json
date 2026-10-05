@@ -16,24 +16,24 @@
   "P1m_leak_matched": {
    "test_acc": {
     "mean": 0.9931,
-    "sd": 0.0025
+    "sd": 0.0023
    },
    "test_macro_f1": {
-    "mean": 0.9921,
-    "sd": 0.0037
+    "mean": 0.9924,
+    "sd": 0.0032
    },
-   "n_seeds": 3
+   "n_seeds": 5
   },
   "P3m_offline_matched": {
    "test_acc": {
-    "mean": 0.9666,
-    "sd": 0.0032
+    "mean": 0.9668,
+    "sd": 0.0023
    },
    "test_macro_f1": {
-    "mean": 0.9602,
-    "sd": 0.0027
+    "mean": 0.9625,
+    "sd": 0.0038
    },
-   "n_seeds": 3
+   "n_seeds": 5
   }
  }
 }

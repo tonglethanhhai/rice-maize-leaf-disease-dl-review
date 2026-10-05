@@ -5,3 +5,7 @@ paddydoctor,efficientnet_b0,P3m_offline_matched,2,43818,7303,14606,1042,2062,0.9
 paddydoctor,efficientnet_b0,P1m_leak_matched,0,54085,7275,14550,1045,2087,0.9866,0.99281,0.99287,15,16.6
 paddydoctor,efficientnet_b0,P1m_leak_matched,1,53988,7238,14476,1057,2112,0.96689,0.99574,0.99523,20,22.1
 paddydoctor,efficientnet_b0,P1m_leak_matched,2,54128,7303,14606,1042,2062,0.97409,0.99079,0.98806,12,13.4
+paddydoctor,efficientnet_b0,P3m_offline_matched,3,43452,7242,14484,1074,2091,0.97393,0.96796,0.96701,18,22.2
+paddydoctor,efficientnet_b0,P3m_offline_matched,4,43488,7248,14496,1051,2108,0.96575,0.96632,0.96507,14,17.0
+paddydoctor,efficientnet_b0,P1m_leak_matched,3,53907,7242,14484,1074,2091,0.97858,0.99522,0.99541,20,21.8
+paddydoctor,efficientnet_b0,P1m_leak_matched,4,54028,7248,14496,1051,2108,0.9705,0.99099,0.99036,16,17.4
