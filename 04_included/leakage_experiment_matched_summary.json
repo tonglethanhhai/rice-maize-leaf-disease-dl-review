@@ -214,6 +214,31 @@
    },
    "items_per_epoch": "5850",
    "n_test": "843"
+  },
+  "paddydoctor": {
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "test_acc": {
+    "P3m_mean": 96.66,
+    "P3m_sd": 0.32,
+    "P1m_mean": 99.31,
+    "P1m_sd": 0.25,
+    "diff_P1m_minus_P3m": {
+     "n": 3,
+     "mean": 2.65,
+     "sd": 0.32,
+     "ci95": [
+      1.85,
+      3.45
+     ],
+     "p_paired_t": 0.004869309088987467
+    }
+   },
+   "items_per_epoch": "14550",
+   "n_test": "2087"
   }
  }
 }

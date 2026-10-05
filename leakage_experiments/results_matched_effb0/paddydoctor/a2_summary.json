@@ -1,0 +1,39 @@
+{
+ "dataset": "paddydoctor",
+ "classes": [
+  "bacterial_leaf_blight",
+  "bacterial_leaf_streak",
+  "bacterial_panicle_blight",
+  "blast",
+  "brown_spot",
+  "dead_heart",
+  "downy_mildew",
+  "hispa",
+  "normal",
+  "tungro"
+ ],
+ "protocols": {
+  "P1m_leak_matched": {
+   "test_acc": {
+    "mean": 0.9931,
+    "sd": 0.0025
+   },
+   "test_macro_f1": {
+    "mean": 0.9921,
+    "sd": 0.0037
+   },
+   "n_seeds": 3
+  },
+  "P3m_offline_matched": {
+   "test_acc": {
+    "mean": 0.9666,
+    "sd": 0.0032
+   },
+   "test_macro_f1": {
+    "mean": 0.9602,
+    "sd": 0.0027
+   },
+   "n_seeds": 3
+  }
+ }
+}

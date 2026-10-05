@@ -36,7 +36,7 @@
       "scheme": "doi"
     }
   ],
-  "notes": "Data CC BY 4.0. The analysis code is not published and is available from the authors on request. Full texts of the reviewed articles are not redistributed. Version 1.3.0: data-only repository; adds the supplementary material, the PRISMA 2020 checklist and the matched leakage experiment (equal training budget; ResNet-50 and EfficientNet-B0; Paddy Doctor).",
-  "version": "1.3.0",
+  "notes": "Data CC BY 4.0. The analysis code is not published and is available from the authors on request. Full texts of the reviewed articles are not redistributed. Version 1.3.1: completes the matched leakage experiment to the full grid of two architectures (ResNet-50, EfficientNet-B0) by four datasets.",
+  "version": "1.3.1",
   "license": "cc-by-4.0"
 }
