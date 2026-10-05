@@ -1,0 +1,19 @@
+﻿report_id,old_leakage,old_criteria,new_leakage,new_criteria,basis,dataset_name
+REP-0081,suspect,L3,clean,,"Kaggle 4,188; no augmentation; random 80/20 split of originals (Sec. 2.1)",PlantVillage-corn
+REP-0437,suspect,L3,clean,,"Kaggle 4,188; resize only; random 80/20 split (Sec. 4.1-4.2)",PlantVillage-corn
+REP-0142,suspect,L3,clean,,"Kaggle 4,188; resize only; 70/30 split, confusion matrix = 30 % of originals (Sec. 2.2, 3)",Kaggle Corn/Maize (PlantVillage+PlantDoc)
+REP-0206,suspect,L3,clean,,"Kaggle 4,188; on-the-fly ImageDataGenerator after split (Sec. 2.2, 2.5)",PlantVillage+PlantDoc corn
+REP-0006,suspect,L3,unknown,,"Kaggle 4,188; augmentation listed, order not stated, test ~199 images",Kaggle Corn/Maize (PV+PlantDoc)
+REP-0061,suspect,L3,clean,,"Kaggle 4,188; resize/normalise only; 70/30 split of 4,188 originals (Sec. 3)",Kaggle Corn/Maize (PV+PlantDoc)
+REP-0168,suspect,L3,clean,,"Kaggle 4,188; 75/25 split of originals, 3,141 + 1,048 (Sec. IV.A)",PlantVillage-corn + self sensor data
+REP-0720,suspect,L3,clean,,"Kaggle 4,188; split 60/20/20 then torchvision transforms (Sec. 3.2)",Kaggle corn-or-maize (PV+PlantDoc); +WG-MARNet
+REP-0268,suspect,L3,clean,,"Kaggle 4,188; augmentation exclusively on training set; 2,931/838/419 (Sec. 5)",Kaggle Corn/Maize (PlantVillage+PlantDoc)
+REP-0297,suspect,L3+L5,suspect,L5,"Kaggle 4,188 + rice; training accuracy only; L3 withdrawn, L5 kept",Kaggle Corn-or-Maize (PV+PlantDoc) + Kaggle riceleafs
+REP-0351,suspect,L3,clean,,"Kaggle 4,188; augmentation exclusively on training set (Sec. III.B, III.D)",Kaggle Corn-or-Maize (PV+PlantDoc)
+REP-0451,suspect,L3,clean,,"self + Kaggle 4,188; on-the-fly augmentation; 15 % independent test (Sec. 3.6-3.7)","self (Tigray, Ethiopia) + Kaggle corn-or-maize"
+REP-0106,suspect,L3+L4,suspect,L4,"CD&S + COMLDD + self; offline augmentation inside test partition; L3 withdrawn, L4 kept",CD&S + COMLDD (PV+PlantDoc) + self (Kenya)
+REP-0231,suspect,L3,clean,,"Kaggle 4,188; 70/15/15, no augmentation (Sec. II.B)",Kaggle Corn/Maize (PlantVillage+PlantDoc)
+REP-0370,suspect,L3,clean,,"Kaggle 4,188; 7:2:1 random split, augmentation on training (Implementation details)",Kaggle Corn-or-Maize (PV+PlantDoc)
+REP-0438,suspect,L3,unknown,,"Kaggle 4,198; 'augmenting' mentioned without method or order; test 840 = 20 %",Kaggle corn-or-maize (PV+PlantDoc)
+REP-0448,suspect,L3,unknown,,"Kaggle 4,188; no augmentation or split description",PlantVillage-corn (Kaggle)
+REP-0473,suspect,L3,clean,,"Kaggle 4,188; no augmentation; 80/20 split (Sec. III.A)",Kaggle corn-or-maize (PV+PlantDoc)

@@ -1,0 +1,40 @@
+{
+ "dataset": "kaggle_rice_anshulm",
+ "n_images": 3829,
+ "verified": {
+  "pairs": 154,
+  "groups": 3740,
+  "share_in_dup_groups": 0.0402,
+  "largest_group": 11,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0318,
+  "rho_sd": 0.005
+ },
+ "strict": {
+  "pairs": 130,
+  "groups": 3750,
+  "share_in_dup_groups": 0.0358,
+  "largest_group": 11,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0289,
+  "rho_sd": 0.0045
+ },
+ "dino99": {
+  "pairs": 96,
+  "groups": 3766,
+  "share_in_dup_groups": 0.029,
+  "largest_group": 8,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0237,
+  "rho_sd": 0.0046
+ },
+ "lenient": {
+  "pairs": 1579,
+  "groups": 2965,
+  "share_in_dup_groups": 0.3304,
+  "largest_group": 81,
+  "groups_spanning_classes": 8,
+  "rho_random_80_20": 0.3053,
+  "rho_sd": 0.0132
+ }
+}

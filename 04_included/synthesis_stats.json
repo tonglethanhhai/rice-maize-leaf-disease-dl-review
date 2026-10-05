@@ -1,0 +1,349 @@
+{
+ "n_included": 202,
+ "by_task": {
+  "T1": 160,
+  "T2": 35,
+  "T3": 17,
+  "T4": 4
+ },
+ "by_crop": {
+  "rice": 121,
+  "maize": 77,
+  "both": 4
+ },
+ "by_year": {
+  "2019": 1,
+  "2020": 2,
+  "2021": 8,
+  "2022": 23,
+  "2023": 28,
+  "2024": 37,
+  "2025": 56,
+  "2026": 47
+ },
+ "by_source": {
+  "self": 39,
+  "plantvillage": 29,
+  "kaggle_derived": 58,
+  "sethy_mendeley": 16,
+  "mixed": 33,
+  "other_public": 27
+ },
+ "by_condition": {
+  "field": 90,
+  "lab": 17,
+  "mixed": 50,
+  "unk": 45
+ },
+ "by_family": {
+  "CNN-custom": 27,
+  "CNN-TL": 63,
+  "Ensemble": 12,
+  "YOLO": 28,
+  "CNN-ViT-hybrid": 10,
+  "Other": 10,
+  "CNN-attention": 16,
+  "Lightweight-CNN": 15,
+  "UNet-family": 5,
+  "GAN": 2,
+  "Two-stage-detector": 2,
+  "Transformer-seg": 4,
+  "ViT": 5,
+  "Other-detector": 1,
+  "Instance-seg": 2
+ },
+ "leakage": {
+  "suspect": 52,
+  "clean": 116,
+  "unknown": 34
+ },
+ "val_is_test": 88,
+ "external": 17,
+ "edge": 12,
+ "code": 18,
+ "n_original_dist": {
+  "n": 189,
+  "median": 4000.0,
+  "q1": 2112.0,
+  "q3": 6323.0,
+  "min": 120.0,
+  "max": 38571.0
+ },
+ "acc_T1_clean_lab": {
+  "n": 7,
+  "median": 98.2,
+  "q1": 97.0,
+  "q3": 98.6,
+  "min": 87.76,
+  "max": 99.23
+ },
+ "acc_T1_clean_field": {
+  "n": 39,
+  "median": 97.1,
+  "q1": 94.43,
+  "q3": 98.5,
+  "min": 78.76,
+  "max": 99.75
+ },
+ "acc_T1_suspect": {
+  "n": 45,
+  "median": 98.75,
+  "q1": 97.45,
+  "q3": 99.49,
+  "min": 83.14,
+  "max": 100.0
+ },
+ "acc_T1_clean_all": {
+  "n": 85,
+  "median": 97.44,
+  "q1": 95.31,
+  "q3": 98.56,
+  "min": 78.76,
+  "max": 100.0
+ },
+ "acc_ge995_by_leak": {
+  "clean": 6,
+  "suspect": 11,
+  "unknown": 0
+ },
+ "map50_T2": {
+  "n": 31,
+  "median": 89.6,
+  "q1": 83.0,
+  "q3": 95.2,
+  "min": 42.3,
+  "max": 99.04
+ },
+ "map50_T2_field": {
+  "n": 20,
+  "median": 91.80000000000001,
+  "q1": 87.5,
+  "q3": 95.4,
+  "min": 56.1,
+  "max": 99.04
+ },
+ "iou_T3": {
+  "n": 9,
+  "median": 83.1,
+  "q1": 73.79,
+  "q3": 84.61,
+  "min": 69.09,
+  "max": 96.15
+ },
+ "T2_family": {
+  "YOLO": 28,
+  "CNN-TL": 2,
+  "Two-stage-detector": 2,
+  "Other-detector": 1,
+  "Instance-seg": 1,
+  "Lightweight-CNN": 1
+ },
+ "T3_family": {
+  "CNN-custom": 1,
+  "Other": 2,
+  "CNN-attention": 1,
+  "YOLO": 1,
+  "UNet-family": 5,
+  "Transformer-seg": 4,
+  "Lightweight-CNN": 1,
+  "Instance-seg": 2
+ },
+ "T2_source": {
+  "self": 12,
+  "mixed": 8,
+  "kaggle_derived": 7,
+  "other_public": 6,
+  "plantvillage": 2
+ },
+ "T3_source": {
+  "self": 5,
+  "other_public": 4,
+  "kaggle_derived": 4,
+  "mixed": 2,
+  "plantvillage": 2
+ },
+ "rice_source": {
+  "self": 29,
+  "kaggle_derived": 50,
+  "sethy_mendeley": 16,
+  "mixed": 16,
+  "other_public": 10
+ },
+ "maize_source": {
+  "plantvillage": 29,
+  "mixed": 16,
+  "other_public": 16,
+  "self": 10,
+  "kaggle_derived": 6
+ },
+ "rice_tasks": {
+  "T1": 97,
+  "T2": 19,
+  "T3": 11,
+  "T4": 3
+ },
+ "maize_tasks": {
+  "T1": 59,
+  "T2": 16,
+  "T3": 6,
+  "T4": 1
+ },
+ "rice_condition": {
+  "field": 65,
+  "unk": 36,
+  "mixed": 15,
+  "lab": 5
+ },
+ "maize_condition": {
+  "lab": 12,
+  "mixed": 35,
+  "unk": 7,
+  "field": 23
+ },
+ "cites_by_leak": {
+  "clean": {
+   "n": 108,
+   "median": 7.0,
+   "q1": 1.0,
+   "q3": 25.0,
+   "min": 0.0,
+   "max": 276.0
+  },
+  "suspect": {
+   "n": 49,
+   "median": 13.0,
+   "q1": 4.0,
+   "q3": 42.0,
+   "min": 0.0,
+   "max": 362.0
+  },
+  "unknown": {
+   "n": 32,
+   "median": 6.5,
+   "q1": 0.0,
+   "q3": 36.0,
+   "min": 0.0,
+   "max": 260.0
+  }
+ },
+ "pv_bench_n": 14,
+ "sethy_bench_n": 0,
+ "tables": {
+  "T1": 160,
+  "T2": 35,
+  "T3": 17,
+  "T4": 4
+ },
+ "diseases_rice_top": [
+  [
+   "brown spot",
+   106
+  ],
+  [
+   "leaf blast",
+   45
+  ],
+  [
+   "bacterial blight",
+   42
+  ],
+  [
+   "blast",
+   38
+  ],
+  [
+   "tungro",
+   30
+  ],
+  [
+   "bacterial leaf blight",
+   23
+  ],
+  [
+   "blb",
+   20
+  ],
+  [
+   "rice blast",
+   18
+  ],
+  [
+   "leaf scald",
+   16
+  ],
+  [
+   "sheath blight",
+   15
+  ],
+  [
+   "hispa",
+   14
+  ],
+  [
+   "leaf smut",
+   13
+  ],
+  [
+   "narrow brown spot",
+   12
+  ],
+  [
+   "false smut",
+   6
+  ],
+  [
+   "neck blast",
+   5
+  ]
+ ],
+ "diseases_maize_top": [
+  [
+   "common rust",
+   43
+  ],
+  [
+   "gray leaf spot",
+   41
+  ],
+  [
+   "blight",
+   23
+  ],
+  [
+   "northern leaf blight",
+   15
+  ],
+  [
+   "nlb",
+   13
+  ],
+  [
+   "northern leaf spot",
+   8
+  ],
+  [
+   "fall armyworm",
+   8
+  ],
+  [
+   "rust",
+   7
+  ],
+  [
+   "gls",
+   5
+  ],
+  [
+   "maize streak virus",
+   5
+  ],
+  [
+   "gray spot",
+   3
+  ],
+  [
+   "southern leaf blight",
+   3
+  ]
+ ]
+}

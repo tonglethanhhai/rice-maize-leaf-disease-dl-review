@@ -1,0 +1,40 @@
+{
+ "dataset": "sethy",
+ "n_images": 5932,
+ "verified": {
+  "pairs": 16278,
+  "groups": 1236,
+  "share_in_dup_groups": 0.9761,
+  "largest_group": 32,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.9578,
+  "rho_sd": 0.0066
+ },
+ "strict": {
+  "pairs": 7163,
+  "groups": 2223,
+  "share_in_dup_groups": 0.9226,
+  "largest_group": 13,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.8594,
+  "rho_sd": 0.0107
+ },
+ "dino99": {
+  "pairs": 4768,
+  "groups": 3128,
+  "share_in_dup_groups": 0.7323,
+  "largest_group": 12,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.664,
+  "rho_sd": 0.0109
+ },
+ "lenient": {
+  "pairs": 18191,
+  "groups": 1092,
+  "share_in_dup_groups": 0.9892,
+  "largest_group": 36,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.9756,
+  "rho_sd": 0.0056
+ }
+}

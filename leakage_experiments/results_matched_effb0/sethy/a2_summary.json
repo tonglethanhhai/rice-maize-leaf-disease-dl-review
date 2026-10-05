@@ -1,0 +1,33 @@
+{
+ "dataset": "sethy",
+ "classes": [
+  "Bacterialblight",
+  "Blast",
+  "Brownspot",
+  "Tungro"
+ ],
+ "protocols": {
+  "P1m_leak_matched": {
+   "test_acc": {
+    "mean": 1.0,
+    "sd": 0.0
+   },
+   "test_macro_f1": {
+    "mean": 1.0,
+    "sd": 0.0
+   },
+   "n_seeds": 3
+  },
+  "P3m_offline_matched": {
+   "test_acc": {
+    "mean": 0.9957,
+    "sd": 0.0075
+   },
+   "test_macro_f1": {
+    "mean": 0.9955,
+    "sd": 0.0078
+   },
+   "n_seeds": 3
+  }
+ }
+}

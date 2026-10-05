@@ -1,0 +1,34 @@
+{
+ "dataset": "kaggle_rice_minhhuy",
+ "root": "C:/Users/Admin/Desktop/Dataset/05_kaggle_rice_minhhuy2810/LabelledRice/Labelled",
+ "n_images": 3355,
+ "classes": {
+  "BrownSpot": 523,
+  "Healthy": 1488,
+  "Hispa": 565,
+  "LeafBlast": 779
+ },
+ "tau": 0.95,
+ "hamming": 4,
+ "backbone": "dinov2_vits14",
+ "n_phash_pairs": 1272,
+ "n_groups": 2100,
+ "n_images_in_dup_groups": 1509,
+ "share_images_in_dup_groups": 0.4498,
+ "largest_group": 548,
+ "n_groups_spanning_classes": 73,
+ "rho_random_80_20_mean": 0.4273,
+ "rho_random_80_20_sd": 0.0199,
+ "nn_cosine_quantiles": {
+  "0.05": 0.8703,
+  "0.25": 0.9123,
+  "0.5": 0.9348,
+  "0.75": 0.9521,
+  "0.95": 0.9719
+ },
+ "share_nn_cosine_ge_0.9": 0.8474,
+ "share_nn_cosine_ge_0.93": 0.5711,
+ "share_nn_cosine_ge_0.95": 0.2841,
+ "share_nn_cosine_ge_0.97": 0.0626,
+ "share_nn_cosine_ge_0.99": 0.0
+}

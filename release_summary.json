@@ -1,0 +1,83 @@
+{
+ "records": 1333,
+ "screened": 1037,
+ "fulltext_assessed": 340,
+ "excluded_fulltext": 138,
+ "included": 202,
+ "by_crop": {
+  "rice": 121,
+  "maize": 77,
+  "both": 4
+ },
+ "by_task": {
+  "T1": 160,
+  "T2": 35,
+  "T3": 17,
+  "T4": 4
+ },
+ "quota": [
+  {
+   "task": "T1",
+   "crop": "rice",
+   "studies": 97,
+   "clean": 46,
+   "quota": 10,
+   "selected": 10,
+   "selected_clean": 8
+  },
+  {
+   "task": "T1",
+   "crop": "maize",
+   "studies": 59,
+   "clean": 37,
+   "quota": 8,
+   "selected": 8,
+   "selected_clean": 8
+  },
+  {
+   "task": "T2",
+   "crop": "rice",
+   "studies": 19,
+   "clean": 13,
+   "quota": 5,
+   "selected": 5,
+   "selected_clean": 5
+  },
+  {
+   "task": "T2",
+   "crop": "maize",
+   "studies": 16,
+   "clean": 11,
+   "quota": 4,
+   "selected": 4,
+   "selected_clean": 4
+  },
+  {
+   "task": "T3",
+   "crop": "rice",
+   "studies": 11,
+   "clean": 4,
+   "quota": 4,
+   "selected": 4,
+   "selected_clean": 4
+  },
+  {
+   "task": "T3",
+   "crop": "maize",
+   "studies": 6,
+   "clean": 5,
+   "quota": 3,
+   "selected": 3,
+   "selected_clean": 3
+  },
+  {
+   "task": "T4",
+   "crop": "any",
+   "studies": 4,
+   "clean": 2,
+   "quota": 4,
+   "selected": 4,
+   "selected_clean": 2
+  }
+ ]
+}

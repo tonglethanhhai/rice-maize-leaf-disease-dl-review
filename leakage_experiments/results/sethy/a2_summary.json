@@ -1,0 +1,44 @@
+{
+ "dataset": "sethy",
+ "classes": [
+  "Bacterialblight",
+  "Blast",
+  "Brownspot",
+  "Tungro"
+ ],
+ "protocols": {
+  "P1_augment_then_split": {
+   "test_acc": {
+    "mean": 0.9998,
+    "sd": 0.0003
+   },
+   "test_macro_f1": {
+    "mean": 0.9998,
+    "sd": 0.0003
+   },
+   "n_seeds": 3
+  },
+  "P2_random_image_split": {
+   "test_acc": {
+    "mean": 0.9975,
+    "sd": 0.0025
+   },
+   "test_macro_f1": {
+    "mean": 0.9975,
+    "sd": 0.0025
+   },
+   "n_seeds": 3
+  },
+  "P3_group_split": {
+   "test_acc": {
+    "mean": 0.9916,
+    "sd": 0.004
+   },
+   "test_macro_f1": {
+    "mean": 0.9913,
+    "sd": 0.0042
+   },
+   "n_seeds": 3
+  }
+ }
+}

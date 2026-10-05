@@ -1,0 +1,40 @@
+{
+ "dataset": "pvcorn",
+ "n_images": 3852,
+ "verified": {
+  "pairs": 4,
+  "groups": 3848,
+  "share_in_dup_groups": 0.0021,
+  "largest_group": 2,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0019,
+  "rho_sd": 0.0009
+ },
+ "strict": {
+  "pairs": 3,
+  "groups": 3849,
+  "share_in_dup_groups": 0.0016,
+  "largest_group": 2,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0014,
+  "rho_sd": 0.0008
+ },
+ "dino99": {
+  "pairs": 2,
+  "groups": 3850,
+  "share_in_dup_groups": 0.001,
+  "largest_group": 2,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0011,
+  "rho_sd": 0.001
+ },
+ "lenient": {
+  "pairs": 103,
+  "groups": 3752,
+  "share_in_dup_groups": 0.0467,
+  "largest_group": 5,
+  "groups_spanning_classes": 0,
+  "rho_random_80_20": 0.0403,
+  "rho_sd": 0.0036
+ }
+}

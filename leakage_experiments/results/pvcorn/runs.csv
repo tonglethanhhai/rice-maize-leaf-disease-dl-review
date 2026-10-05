@@ -1,0 +1,10 @@
+dataset,protocol,seed,n_train,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,ext_acc,ext_macro_f1,minutes
+pvcorn,P1_augment_then_split,0,16178,2312,4622,0.99567,0.9894,0.98559,11,0.26667,0.19211,20.5
+pvcorn,P1_augment_then_split,1,16178,2312,4622,0.9987,0.99654,0.99487,16,0.336,0.22224,29.4
+pvcorn,P1_augment_then_split,2,16178,2312,4622,0.99697,0.99416,0.99169,15,0.36,0.26676,27.3
+pvcorn,P2_random_image_split,0,2696,386,770,0.99223,0.98701,0.9835,15,0.304,0.22041,4.7
+pvcorn,P2_random_image_split,1,2696,386,770,0.99482,0.98312,0.97831,20,0.34933,0.25792,6.1
+pvcorn,P2_random_image_split,2,2696,386,770,0.98446,0.98312,0.97631,16,0.344,0.27002,4.8
+pvcorn,P3_group_split,0,2700,387,765,0.98966,0.96601,0.95196,6,0.272,0.21153,2.2
+pvcorn,P3_group_split,1,2701,382,769,0.97906,0.987,0.98168,9,0.352,0.23996,3.1
+pvcorn,P3_group_split,2,2693,381,778,0.99213,0.97172,0.96219,8,0.23733,0.15943,2.6

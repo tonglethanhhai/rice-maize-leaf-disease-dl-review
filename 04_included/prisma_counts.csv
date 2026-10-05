@@ -1,0 +1,43 @@
+﻿Giai_doan,Muc,So_luong,Tep_nguon,Quy_tac_tinh
+Nhận diện,Scopus,499,records_master.csv,source = Scopus
+Nhận diện,IEEE Xplore,41,records_master.csv,source = IEEE Xplore
+Nhận diện,ScienceDirect,774,records_master.csv,source = ScienceDirect
+Nhận diện,MDPI,19,records_master.csv,source = MDPI
+Nhận diện,Tổng bản ghi thô,1333,records_master.csv,đếm dòng
+Loại trước sàng lọc,Trùng lặp: ScienceDirect,259,duplicate_log.csv,source_removed = ScienceDirect
+Loại trước sàng lọc,Trùng lặp: IEEE Xplore,28,duplicate_log.csv,source_removed = IEEE Xplore
+Loại trước sàng lọc,Trùng lặp: MDPI,9,duplicate_log.csv,source_removed = MDPI
+Loại trước sàng lọc,Tổng bản ghi trùng,296,duplicate_log.csv,đếm dòng
+Sàng lọc,Bản ghi được sàng lọc tiêu đề/tóm tắt,1037,screening_decisions.csv,đếm dòng
+Sàng lọc,Loại [X6_HYBRID] Tạp chí không truy cập mở hoàn toàn,96,screening_decisions.csv,exclusion_code = X6_HYBRID
+Sàng lọc,Loại [X6_CONF] Kỷ yếu hội nghị,93,screening_decisions.csv,exclusion_code = X6_CONF
+Sàng lọc,"Loại [X6_REVIEW] Bài tổng quan, không có thực nghiệm",13,screening_decisions.csv,exclusion_code = X6_REVIEW
+Sàng lọc,Loại [X1] Không phải lúa/ngô hoặc không phải bệnh cây trồng,310,screening_decisions.csv,exclusion_code = X1
+Sàng lọc,Loại [X2] Không phải bệnh lá,59,screening_decisions.csv,exclusion_code = X2
+Sàng lọc,Loại [X3] Không dùng mạng học sâu,44,screening_decisions.csv,exclusion_code = X3
+Sàng lọc,Loại [X4] Không có đánh giá định lượng,4,screening_decisions.csv,exclusion_code = X4
+Sàng lọc,Loại [X1_MULTI] (A) Nghiên cứu đa cây trồng,41,screening_decisions.csv,exclusion_code = X1_MULTI
+Sàng lọc,"Loại [X8_MODALITY] (B) Ảnh không phải RGB (siêu phổ, đa phổ, UAV, nhiệt)",32,screening_decisions.csv,exclusion_code = X8_MODALITY
+Sàng lọc,Tổng bị loại ở tiêu đề/tóm tắt,692,screening_decisions.csv,screening_decision = EXCLUDE
+Truy xuất,Báo cáo cần truy xuất toàn văn,345,fulltext_manifest.csv,INCLUDE + UNCLEAR
+Truy xuất,Báo cáo không truy xuất được,5,fulltext_manifest.csv,retrieval_status = NOT_RETRIEVED
+Đánh giá toàn văn,Báo cáo được đánh giá toàn văn,340,fulltext_review_master.csv,decision != PENDING
+Đánh giá toàn văn,Loại [G3-LEAK] Rò rỉ dữ liệu: tăng cường ảnh trước khi chia tập,93,fulltext_review_master.csv,reason_code = G3-LEAK
+Đánh giá toàn văn,Loại [G3-PROTOCOL] Giao thức đánh giá không hợp lệ,17,fulltext_review_master.csv,reason_code = G3-PROTOCOL
+Đánh giá toàn văn,Loại [G1-POOLED] Đa cây trồng (sửa đổi A),13,fulltext_review_master.csv,reason_code = G1-POOLED
+Đánh giá toàn văn,Loại [G1-SCOPE] Ngoài phạm vi: ảnh không RGB hoặc không phải bệnh lá,5,fulltext_review_master.csv,reason_code = G1-SCOPE
+Đánh giá toàn văn,Loại [G2] Không huấn luyện mạng học sâu,6,fulltext_review_master.csv,reason_code = G2
+Đánh giá toàn văn,"Loại [G3-SMALL] Dưới 200 ảnh gốc, không rõ nguồn",2,fulltext_review_master.csv,reason_code = G3-SMALL
+Đánh giá toàn văn,Loại [G1-CROP] Không phải lúa/ngô,1,fulltext_review_master.csv,reason_code = G1-CROP
+Đánh giá toàn văn,Loại [G4-TASK] Không phải bài toán thị giác được đánh giá,1,fulltext_review_master.csv,reason_code = G4-TASK
+Đánh giá toàn văn,Tổng bị loại sau toàn văn,138,fulltext_review_master.csv,decision = LOẠI
+Đưa vào,Báo cáo được nhận,202,fulltext_review_master.csv,decision = NHẬN
+Đưa vào,Nghiên cứu được nhận,202,synthesis/coded_included.csv,không phát hiện báo cáo trùng nghiên cứu
+Đưa vào,Tạp chí duy nhất,85,synthesis/coded_included.csv,đếm journal duy nhất
+Đưa vào,Chỉ lúa,121,synthesis/coded_included.csv,crop = rice
+Đưa vào,Chỉ ngô,77,synthesis/coded_included.csv,crop = maize
+Đưa vào,Cả lúa và ngô,4,synthesis/coded_included.csv,crop = both
+Đưa vào,Bài toán T1 (có chồng lặp),160,synthesis/coded_included.csv,tasks chứa T1
+Đưa vào,Bài toán T2 (có chồng lặp),35,synthesis/coded_included.csv,tasks chứa T2
+Đưa vào,Bài toán T3 (có chồng lặp),17,synthesis/coded_included.csv,tasks chứa T3
+Đưa vào,Bài toán T4 (có chồng lặp),4,synthesis/coded_included.csv,tasks chứa T4

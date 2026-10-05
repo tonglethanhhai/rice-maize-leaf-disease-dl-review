@@ -1,0 +1,145 @@
+{
+ "PlantVillage ngô (kể cả bản Kaggle corn-or-maize gộp PlantDoc)": {
+  "n": 47,
+  "rice": 1,
+  "maize": 43,
+  "T1": 42,
+  "T2": 4,
+  "T3": 2,
+  "T4": 1,
+  "clean": 30,
+  "suspect": 10
+ },
+ "Sethy / Rice Leaf Disease Image Samples": {
+  "n": 30,
+  "rice": 26,
+  "maize": 3,
+  "T1": 29,
+  "T2": 1,
+  "T3": 0,
+  "T4": 1,
+  "clean": 12,
+  "suspect": 12
+ },
+ "UCI 120 và các bản Kaggle nhân bản (bahribahri, riceleaf ...)": {
+  "n": 13,
+  "rice": 13,
+  "maize": 0,
+  "T1": 13,
+  "T2": 0,
+  "T3": 1,
+  "T4": 0,
+  "clean": 4,
+  "suspect": 8
+ },
+ "Kaggle rice leaf diseases 2,627 (riceleafs / riceleafsv3)": {
+  "n": 7,
+  "rice": 6,
+  "maize": 0,
+  "T1": 7,
+  "T2": 0,
+  "T3": 0,
+  "T4": 0,
+  "clean": 2,
+  "suspect": 1
+ },
+ "Kaggle rice-diseases-image-dataset 3,355 (minhhuy2810)": {
+  "n": 10,
+  "rice": 10,
+  "maize": 0,
+  "T1": 10,
+  "T2": 0,
+  "T3": 0,
+  "T4": 1,
+  "clean": 8,
+  "suspect": 1
+ },
+ "Paddy Doctor": {
+  "n": 10,
+  "rice": 10,
+  "maize": 0,
+  "T1": 10,
+  "T2": 0,
+  "T3": 0,
+  "T4": 0,
+  "clean": 5,
+  "suspect": 2
+ },
+ "CD&S (Purdue)": {
+  "n": 12,
+  "rice": 0,
+  "maize": 12,
+  "T1": 6,
+  "T2": 4,
+  "T3": 2,
+  "T4": 0,
+  "clean": 10,
+  "suspect": 2
+ },
+ "NLB (Cornell)": {
+  "n": 2,
+  "rice": 0,
+  "maize": 2,
+  "T1": 2,
+  "T2": 0,
+  "T3": 0,
+  "T4": 0,
+  "clean": 2,
+  "suspect": 0
+ },
+ "Tanzania / Lacuna / Makerere": {
+  "n": 8,
+  "rice": 2,
+  "maize": 6,
+  "T1": 7,
+  "T2": 2,
+  "T3": 1,
+  "T4": 0,
+  "clean": 7,
+  "suspect": 1
+ },
+ "BanglaRiceLeaf / Dhan-Shomadhan / RiceLeafDiseaseBD": {
+  "n": 5,
+  "rice": 4,
+  "maize": 0,
+  "T1": 5,
+  "T2": 1,
+  "T3": 0,
+  "T4": 0,
+  "clean": 3,
+  "suspect": 2
+ },
+ "Roboflow (các bộ không rõ nguồn)": {
+  "n": 6,
+  "rice": 5,
+  "maize": 1,
+  "T1": 1,
+  "T2": 5,
+  "T3": 1,
+  "T4": 0,
+  "clean": 4,
+  "suspect": 0
+ },
+ "Tự thu (self)": {
+  "n": 66,
+  "rice": 43,
+  "maize": 22,
+  "T1": 46,
+  "T2": 18,
+  "T3": 7,
+  "T4": 1,
+  "clean": 43,
+  "suspect": 15
+ },
+ "Khác / không nêu tên": {
+  "n": 31,
+  "rice": 23,
+  "maize": 7,
+  "T1": 24,
+  "T2": 4,
+  "T3": 4,
+  "T4": 0,
+  "clean": 23,
+  "suspect": 4
+ }
+}

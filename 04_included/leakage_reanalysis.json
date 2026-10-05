@@ -1,0 +1,300 @@
+{
+ "P_prevalence_340": {
+  "explicit_plus_suspect": {
+   "x": 145,
+   "n": 340,
+   "p": 42.6,
+   "lo": 37.5,
+   "hi": 48.0
+  },
+  "explicit_plus_suspect_plus_invalid_protocol": {
+   "x": 164,
+   "n": 340,
+   "p": 48.2,
+   "lo": 43.0,
+   "hi": 53.5
+  },
+  "clean_included": {
+   "x": 116,
+   "n": 340,
+   "p": 34.1,
+   "lo": 29.3,
+   "hi": 39.3
+  },
+  "unknown_included": {
+   "x": 34,
+   "n": 340,
+   "p": 10.0,
+   "lo": 7.2,
+   "hi": 13.6
+  },
+  "counts": {
+   "explicit_leak_excluded": 93,
+   "invalid_protocol_excluded": 19,
+   "suspect_included": 52,
+   "unknown_included": 34
+  }
+ },
+ "S1_label_by_source": {
+  "table": {
+   "kaggle_derived": {
+    "clean": 27,
+    "suspect": 11
+   },
+   "mixed": {
+    "clean": 13,
+    "suspect": 7
+   },
+   "other_public": {
+    "clean": 12,
+    "suspect": 4
+   },
+   "plantvillage": {
+    "clean": 14,
+    "suspect": 5
+   },
+   "self": {
+    "clean": 19,
+    "suspect": 3
+   },
+   "sethy_mendeley": {
+    "clean": 0,
+    "suspect": 15
+   }
+  },
+  "cramers_v": 0.514,
+  "share_suspect_from_sethy_or_plantvillage": 0.444
+ },
+ "S2_hodges_lehmann": {
+  "hl": 1.05,
+  "ci95": [
+   0.47,
+   1.71
+  ],
+  "ci90": [
+   0.55,
+   1.59
+  ],
+  "tost_margin_pp": 1.0,
+  "equivalent_within_margin": false,
+  "clean": {
+   "n": 85,
+   "median": 97.44,
+   "q1": 95.31,
+   "q3": 98.56
+  },
+  "suspect": {
+   "n": 45,
+   "median": 98.75,
+   "q1": 97.45,
+   "q3": 99.49
+  }
+ },
+ "S3_within_source": {
+  "z": 1.279,
+  "p": 0.20098535939395268,
+  "strata": 5,
+  "sources": {
+   "kaggle_derived": {
+    "clean": {
+     "n": 27,
+     "median": 98.1,
+     "q1": 95.98,
+     "q3": 98.63
+    },
+    "suspect": {
+     "n": 11,
+     "median": 98.3,
+     "q1": 95.5,
+     "q3": 99.16
+    },
+    "hl_suspect_minus_clean": 0.25
+   },
+   "mixed": {
+    "clean": {
+     "n": 13,
+     "median": 98.21,
+     "q1": 96.11,
+     "q3": 99.15
+    },
+    "suspect": {
+     "n": 7,
+     "median": 97.43,
+     "q1": 95.5,
+     "q3": 98.85
+    },
+    "hl_suspect_minus_clean": -0.45
+   },
+   "other_public": {
+    "clean": {
+     "n": 12,
+     "median": 97.8,
+     "q1": 94.94,
+     "q3": 98.82
+    },
+    "suspect": {
+     "n": 4,
+     "median": 98.77,
+     "q1": 97.7,
+     "q3": 99.82
+    },
+    "hl_suspect_minus_clean": 1.24
+   },
+   "plantvillage": {
+    "clean": {
+     "n": 14,
+     "median": 97.22,
+     "q1": 95.14,
+     "q3": 98.06
+    },
+    "suspect": {
+     "n": 5,
+     "median": 98.06,
+     "q1": 98.0,
+     "q3": 98.75
+    },
+    "hl_suspect_minus_clean": 1.38
+   },
+   "self": {
+    "clean": {
+     "n": 19,
+     "median": 97.0,
+     "q1": 94.66,
+     "q3": 98.07
+    },
+    "suspect": {
+     "n": 3,
+     "median": 96.88,
+     "q1": 96.35,
+     "q3": 97.77
+    },
+    "hl_suspect_minus_clean": 0.32
+   }
+  },
+  "n_clean": 85,
+  "n_suspect": 30
+ },
+ "S4_rank_regression": {
+  "no_source": {
+   "coef": 0.1887,
+   "lo": 0.0851,
+   "hi": 0.2924,
+   "p": 0.00035740506488327815,
+   "n": 130
+  },
+  "source_fe_mixed_sources_only": {
+   "coef": 0.0854,
+   "lo": -0.0418,
+   "hi": 0.2126,
+   "p": 0.1879894297575686,
+   "n": 115
+  },
+  "note": "outcome = accuracy percentile rank (0-1); coefficient = suspect minus clean"
+ },
+ "S5_ge995": {
+  "clean": {
+   "x": 6,
+   "n": 85,
+   "p": 7.1,
+   "lo": 3.3,
+   "hi": 14.6
+  },
+  "suspect": {
+   "x": 11,
+   "n": 45,
+   "p": 24.4,
+   "lo": 14.2,
+   "hi": 38.7
+  },
+  "odds_ratio": 4.26,
+  "p_fisher": 0.011545932440755566
+ },
+ "S6_three_groups": {
+  "explicit": {
+   "n": 66,
+   "median": 97.95,
+   "q1": 96.0,
+   "q3": 99.13
+  },
+  "suspect": {
+   "n": 45,
+   "median": 98.75,
+   "q1": 97.45,
+   "q3": 99.49
+  },
+  "clean": {
+   "n": 85,
+   "median": 97.44,
+   "q1": 95.31,
+   "q3": 98.56
+  },
+  "jonckheere": {
+   "J": 6871.0,
+   "z": 1.564,
+   "p_one_sided": 0.05886612526789726
+  },
+  "explicit_vs_clean": {
+   "hl": 0.44,
+   "ci95": [
+    -0.22,
+    1.14
+   ],
+   "ci90": [
+    -0.105,
+    1.01
+   ]
+  },
+  "kruskal_p": 0.0046279811342341635,
+  "ge995_explicit": {
+   "x": 12,
+   "n": 66,
+   "p": 18.2,
+   "lo": 10.7,
+   "hi": 29.1
+  },
+  "ge995_any_leak_vs_clean": {
+   "any_leak": {
+    "x": 23,
+    "n": 111,
+    "p": 20.7,
+    "lo": 14.2,
+    "hi": 29.2
+   },
+   "clean": {
+    "x": 6,
+    "n": 85,
+    "p": 7.1,
+    "lo": 3.3,
+    "hi": 14.6
+   },
+   "odds_ratio": 3.44,
+   "p_fisher": 0.008153711254994467
+  }
+ },
+ "C_citations_negbin": {
+  "irr": 1.03,
+  "lo": 0.62,
+  "hi": 1.71,
+  "p": 0.9013714179220145,
+  "n": 157,
+  "n_journals": 71,
+  "model": "NB2 cites ~ suspect + year FE; SE clustered by journal"
+ },
+ "H_primary_and_holm": {
+  "primary_mwu_acc_suspect_vs_clean": {
+   "U": 1240.5,
+   "p": 0.0010138183704109273
+  },
+  "family_raw_p": {
+   "S5_fisher_ge995": 0.011545932440755566,
+   "S3_van_elteren": 0.20098535939395268,
+   "S4_rank_regression_source_fe": 0.1879894297575686
+  },
+  "family_holm_p": {
+   "S5_fisher_ge995": 0.0346377973222667,
+   "S4_rank_regression_source_fe": 0.3759788595151372,
+   "S3_van_elteren": 0.3759788595151372
+  },
+  "exploratory_jt_two_sided_p": 0.11773225053579452
+ }
+}

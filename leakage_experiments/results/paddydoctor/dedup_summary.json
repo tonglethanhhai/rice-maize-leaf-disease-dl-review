@@ -1,0 +1,40 @@
+{
+ "dataset": "paddydoctor",
+ "root": "C:/Users/Admin/Desktop/Dataset/04_paddy_doctor/train_images",
+ "n_images": 10407,
+ "classes": {
+  "bacterial_leaf_blight": 479,
+  "bacterial_leaf_streak": 380,
+  "bacterial_panicle_blight": 337,
+  "blast": 1738,
+  "brown_spot": 965,
+  "dead_heart": 1442,
+  "downy_mildew": 620,
+  "hispa": 1594,
+  "normal": 1764,
+  "tungro": 1088
+ },
+ "tau": 0.95,
+ "hamming": 4,
+ "backbone": "dinov2_vits14",
+ "n_phash_pairs": 2973,
+ "n_groups": 846,
+ "n_images_in_dup_groups": 9899,
+ "share_images_in_dup_groups": 0.9512,
+ "largest_group": 7466,
+ "n_groups_spanning_classes": 19,
+ "rho_random_80_20_mean": 0.9465,
+ "rho_random_80_20_sd": 0.0037,
+ "nn_cosine_quantiles": {
+  "0.05": 0.9497,
+  "0.25": 0.9722,
+  "0.5": 0.9814,
+  "0.75": 0.9874,
+  "0.95": 0.9937
+ },
+ "share_nn_cosine_ge_0.9": 0.9961,
+ "share_nn_cosine_ge_0.93": 0.9844,
+ "share_nn_cosine_ge_0.95": 0.9487,
+ "share_nn_cosine_ge_0.97": 0.7858,
+ "share_nn_cosine_ge_0.99": 0.1471
+}

@@ -1,0 +1,34 @@
+{
+ "dataset": "kaggle_cornmaize",
+ "root": "C:/Users/Admin/Desktop/Dataset/03_kaggle_corn_or_maize/data",
+ "n_images": 4188,
+ "classes": {
+  "Blight": 1146,
+  "Common_Rust": 1306,
+  "Gray_Leaf_Spot": 574,
+  "Healthy": 1162
+ },
+ "tau": 0.95,
+ "hamming": 4,
+ "backbone": "dinov2_vits14",
+ "n_phash_pairs": 12,
+ "n_groups": 4077,
+ "n_images_in_dup_groups": 202,
+ "share_images_in_dup_groups": 0.0482,
+ "largest_group": 5,
+ "n_groups_spanning_classes": 6,
+ "rho_random_80_20_mean": 0.0405,
+ "rho_random_80_20_sd": 0.0062,
+ "nn_cosine_quantiles": {
+  "0.05": 0.8237,
+  "0.25": 0.8821,
+  "0.5": 0.9087,
+  "0.75": 0.9267,
+  "0.95": 0.9495
+ },
+ "share_nn_cosine_ge_0.9": 0.6029,
+ "share_nn_cosine_ge_0.93": 0.2018,
+ "share_nn_cosine_ge_0.95": 0.0478,
+ "share_nn_cosine_ge_0.97": 0.0141,
+ "share_nn_cosine_ge_0.99": 0.0024
+}

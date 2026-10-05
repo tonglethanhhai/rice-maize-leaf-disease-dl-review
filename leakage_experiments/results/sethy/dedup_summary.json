@@ -1,0 +1,34 @@
+{
+ "dataset": "sethy",
+ "root": "C:/Users/Admin/Desktop/Dataset/Rice Leaf Disease Image Samples",
+ "n_images": 5932,
+ "classes": {
+  "Bacterialblight": 1584,
+  "Blast": 1440,
+  "Brownspot": 1600,
+  "Tungro": 1308
+ },
+ "tau": 0.95,
+ "hamming": 4,
+ "backbone": "dinov2_vits14",
+ "n_phash_pairs": 7422,
+ "n_groups": 1093,
+ "n_images_in_dup_groups": 5868,
+ "share_images_in_dup_groups": 0.9892,
+ "largest_group": 36,
+ "n_groups_spanning_classes": 0,
+ "rho_random_80_20_mean": 0.9756,
+ "rho_random_80_20_sd": 0.0056,
+ "nn_cosine_quantiles": {
+  "0.05": 0.9724,
+  "0.25": 0.9895,
+  "0.5": 0.996,
+  "0.75": 1.0,
+  "0.95": 1.0
+ },
+ "share_nn_cosine_ge_0.9": 0.9978,
+ "share_nn_cosine_ge_0.93": 0.9934,
+ "share_nn_cosine_ge_0.95": 0.9874,
+ "share_nn_cosine_ge_0.97": 0.957,
+ "share_nn_cosine_ge_0.99": 0.7299
+}

@@ -1,0 +1,10 @@
+dataset,protocol,seed,n_train,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,minutes
+sethy,P1_augment_then_split,0,24914,3560,7118,1.0,1.0,1.0,7,20.2
+sethy,P1_augment_then_split,1,24914,3560,7118,1.0,1.0,1.0,8,22.5
+sethy,P1_augment_then_split,2,24914,3560,7118,1.0,0.99944,0.99947,6,16.9
+sethy,P2_random_image_split,0,4152,594,1186,1.0,0.99494,0.99503,6,3.0
+sethy,P2_random_image_split,1,4152,594,1186,1.0,1.0,1.0,7,3.3
+sethy,P2_random_image_split,2,4152,594,1186,1.0,0.99747,0.99743,6,2.8
+sethy,P3_group_split,0,4146,549,1237,1.0,0.98707,0.98652,6,3.1
+sethy,P3_group_split,1,4220,609,1103,1.0,0.99456,0.99424,7,3.7
+sethy,P3_group_split,2,4197,585,1150,0.99829,0.99304,0.99322,7,3.5

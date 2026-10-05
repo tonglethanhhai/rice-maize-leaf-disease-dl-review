@@ -1,0 +1,7 @@
+dataset,arch,protocol,seed,n_train,n_train_originals,items_per_epoch,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,minutes
+paddydoctor,resnet50,P3m_offline_matched,0,43650,7275,14550,1045,2087,0.97512,0.96023,0.95371,20,35.0
+paddydoctor,resnet50,P3m_offline_matched,1,43428,7238,14476,1057,2112,0.93756,0.95833,0.95087,14,22.9
+paddydoctor,resnet50,P3m_offline_matched,2,43818,7303,14606,1042,2062,0.96929,0.96702,0.95829,20,32.9
+paddydoctor,resnet50,P1m_leak_matched,0,54085,7275,14550,1045,2087,0.98565,0.99042,0.99019,20,33.0
+paddydoctor,resnet50,P1m_leak_matched,1,53988,7238,14476,1057,2112,0.95648,0.99195,0.99214,19,31.4
+paddydoctor,resnet50,P1m_leak_matched,2,54128,7303,14606,1042,2062,0.97217,0.98448,0.9797,17,28.4

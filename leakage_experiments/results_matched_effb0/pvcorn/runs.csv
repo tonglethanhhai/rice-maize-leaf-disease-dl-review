@@ -1,0 +1,7 @@
+dataset,arch,protocol,seed,n_train,n_train_originals,items_per_epoch,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,ext_acc,ext_macro_f1,minutes
+pvcorn,efficientnet_b0,P3m_offline_matched,0,16200,2700,5400,387,765,0.98966,0.9817,0.97279,8,0.224,0.16321,5.1
+pvcorn,efficientnet_b0,P3m_offline_matched,1,16206,2701,5402,382,769,0.98691,0.9896,0.98614,12,0.29333,0.2161,6.2
+pvcorn,efficientnet_b0,P3m_offline_matched,2,16158,2693,5386,381,778,0.99213,0.97301,0.96459,6,0.29333,0.21095,3.0
+pvcorn,efficientnet_b0,P1m_leak_matched,0,20025,2700,5400,387,765,0.99483,0.99739,0.99615,12,0.344,0.23218,5.2
+pvcorn,efficientnet_b0,P1m_leak_matched,1,20051,2701,5402,382,769,0.98953,0.9987,0.99808,11,0.33333,0.2216,4.8
+pvcorn,efficientnet_b0,P1m_leak_matched,2,20048,2693,5386,381,778,0.99475,0.991,0.98819,9,0.35467,0.27931,4.4

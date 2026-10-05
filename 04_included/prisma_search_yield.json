@@ -1,0 +1,39 @@
+{
+ "identified": 1333,
+ "duplicates": 296,
+ "screened": 1037,
+ "included": 202,
+ "precision_pct": 19.5,
+ "NNR": 5.13,
+ "found_in_2plus_sources": 40,
+ "per_source": {
+  "Scopus": {
+   "records": 499,
+   "included_found": 189,
+   "recall_pct": 93.6,
+   "precision_pct": 37.9,
+   "unique": 149
+  },
+  "IEEE Xplore": {
+   "records": 41,
+   "included_found": 18,
+   "recall_pct": 8.9,
+   "precision_pct": 43.9,
+   "unique": 2
+  },
+  "ScienceDirect": {
+   "records": 774,
+   "included_found": 31,
+   "recall_pct": 15.3,
+   "precision_pct": 4.0,
+   "unique": 10
+  },
+  "MDPI": {
+   "records": 19,
+   "included_found": 4,
+   "recall_pct": 2.0,
+   "precision_pct": 21.1,
+   "unique": 1
+  }
+ }
+}

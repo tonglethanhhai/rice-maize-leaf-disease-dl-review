@@ -1,0 +1,232 @@
+{
+ "n_studies_with_external_test": 17,
+ "n_true_transfer": 13,
+ "excluded_not_transfer": [
+  "REP-0037",
+  "REP-0419",
+  "REP-0494",
+  "REP-1013"
+ ],
+ "median": 6.85,
+ "q1": 4.5,
+ "q3": 10.0,
+ "min": -1.9,
+ "max": 17.65,
+ "n_drop_ge5": 9,
+ "n_drop_ge10": 4,
+ "n_no_drop": 2,
+ "lab_only_baseline_REP_0143": {
+  "m_int": "99.5",
+  "m_ext": "37.64",
+  "delta": "61.86"
+ },
+ "studies": [
+  {
+   "report_id": "REP-0208",
+   "delta": -1.9,
+   "metric": "accuracy",
+   "kind": "independent",
+   "m_int": "97.0",
+   "m_ext": "98.9",
+   "n_rows": 1,
+   "confidence": "low"
+  },
+  {
+   "report_id": "REP-0965",
+   "delta": -0.44,
+   "metric": "accuracy",
+   "kind": "cross-region",
+   "m_int": "99.14",
+   "m_ext": "99.33",
+   "n_rows": 2,
+   "confidence": "medium"
+  },
+  {
+   "report_id": "REP-0486",
+   "delta": 0.63,
+   "metric": "mAP50",
+   "kind": "cross-dataset",
+   "m_int": "97.4",
+   "m_ext": "96.2",
+   "n_rows": 2,
+   "confidence": "high"
+  },
+  {
+   "report_id": "REP-0130",
+   "delta": 4.5,
+   "metric": "accuracy",
+   "kind": "cross-dataset",
+   "m_int": "96.8",
+   "m_ext": "92.3",
+   "n_rows": 1,
+   "confidence": "high"
+  },
+  {
+   "report_id": "REP-0143",
+   "delta": 5.92,
+   "metric": "accuracy",
+   "kind": "lab-to-field",
+   "m_int": "87.52",
+   "m_ext": "81.6",
+   "n_rows": 1,
+   "confidence": "medium"
+  },
+  {
+   "report_id": "REP-0225",
+   "delta": 6.63,
+   "metric": "accuracy",
+   "kind": "lab-to-field",
+   "m_int": "95.63",
+   "m_ext": "89.0",
+   "n_rows": 1,
+   "confidence": "medium"
+  },
+  {
+   "report_id": "REP-0089",
+   "delta": 6.85,
+   "metric": "accuracy",
+   "kind": "independent",
+   "m_int": "99.26",
+   "m_ext": "92.41",
+   "n_rows": 1,
+   "confidence": "medium"
+  },
+  {
+   "report_id": "REP-0342",
+   "delta": 8.0,
+   "metric": "accuracy",
+   "kind": "independent",
+   "m_int": "99.0",
+   "m_ext": "91.0",
+   "n_rows": 1,
+   "confidence": "medium"
+  },
+  {
+   "report_id": "REP-0005",
+   "delta": 8.75,
+   "metric": "accuracy",
+   "kind": "cross-dataset",
+   "m_int": "99.55",
+   "m_ext": "90.8",
+   "n_rows": 1,
+   "confidence": "high"
+  },
+  {
+   "report_id": "REP-0090",
+   "delta": 10.0,
+   "metric": "accuracy",
+   "kind": "cross-dataset",
+   "m_int": "96.4",
+   "m_ext": "88.9",
+   "n_rows": 6,
+   "confidence": "medium"
+  },
+  {
+   "report_id": "REP-0459",
+   "delta": 14.38,
+   "metric": "accuracy",
+   "kind": "lab-to-field",
+   "m_int": "99.48",
+   "m_ext": "78.34",
+   "n_rows": 2,
+   "confidence": "high/medium"
+  },
+  {
+   "report_id": "REP-0397",
+   "delta": 15.27,
+   "metric": "accuracy",
+   "kind": "cross-region",
+   "m_int": "95.571",
+   "m_ext": "80.3",
+   "n_rows": 1,
+   "confidence": "high"
+  },
+  {
+   "report_id": "REP-0004",
+   "delta": 17.65,
+   "metric": "mIoU",
+   "kind": "open-set",
+   "m_int": "83.1",
+   "m_ext": "62.8",
+   "n_rows": 2,
+   "confidence": "high"
+  }
+ ],
+ "by_metric": {
+  "accuracy": {
+   "n": 11,
+   "median": 6.85,
+   "q1": 5.21,
+   "q3": 9.38,
+   "min": -1.9,
+   "max": 15.27
+  },
+  "mAP50": {
+   "n": 1,
+   "median": 0.63,
+   "q1": 0.63,
+   "q3": 0.63,
+   "min": 0.63,
+   "max": 0.63
+  },
+  "mIoU": {
+   "n": 1,
+   "median": 17.65,
+   "q1": 17.65,
+   "q3": 17.65,
+   "min": 17.65,
+   "max": 17.65
+  }
+ },
+ "by_shift": {
+  "cross-dataset": {
+   "n": 4,
+   "median": 6.62,
+   "q1": 3.53,
+   "q3": 9.06,
+   "min": 0.63,
+   "max": 10.0
+  },
+  "cross-region": {
+   "n": 2,
+   "median": 7.42,
+   "q1": 3.49,
+   "q3": 11.34,
+   "min": -0.44,
+   "max": 15.27
+  },
+  "independent": {
+   "n": 3,
+   "median": 6.85,
+   "q1": 2.47,
+   "q3": 7.42,
+   "min": -1.9,
+   "max": 8.0
+  },
+  "lab-to-field": {
+   "n": 3,
+   "median": 6.63,
+   "q1": 6.28,
+   "q3": 10.51,
+   "min": 5.92,
+   "max": 14.38
+  },
+  "open-set": {
+   "n": 1,
+   "median": 17.65,
+   "q1": 17.65,
+   "q3": 17.65,
+   "min": 17.65,
+   "max": 17.65
+  }
+ },
+ "accuracy_excluding_validation_baseline": {
+  "n": 10,
+  "median": 7.42,
+  "q1": 4.86,
+  "q3": 9.69,
+  "min": -1.9,
+  "max": 15.27
+ },
+ "note": "median over 13 heterogeneous comparisons (metrics and shifts differ); descriptive, not a pooled effect"
+}

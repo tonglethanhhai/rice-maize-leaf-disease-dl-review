@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.py
+*.ipynb
+requirements.txt
+scripts/
+.DS_Store
+Thumbs.db
+*.pdf
+!supplementary.pdf
+!prisma2020_checklist.pdf

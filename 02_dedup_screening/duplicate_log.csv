@@ -1,0 +1,297 @@
+﻿duplicate_record_id,retained_record_id,retained_report_id,source_removed,source_retained,dup_type,evidence,decision_date,decision_tool
+REC-IEEE-0036,REC-SCOPUS-0003,REP-0003,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0003 on DOI_EXACT (DOI: 10.1109/access.2024.3470970),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0021,REC-SCOPUS-0004,REP-0004,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0004 on DOI_EXACT (DOI: 10.34133/plantphenomics.0218),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0088,REC-SCOPUS-0020,REP-0020,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0020 on DOI_EXACT (DOI: 10.1016/j.measen.2023.100966),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0530,REC-SCOPUS-0020,REP-0020,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0020 on DOI_EXACT (DOI: 10.1016/j.measen.2023.100966),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0127,REC-SCOPUS-0021,REP-0021,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0021 on DOI_EXACT (DOI: 10.32604/cmc.2022.028504),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0008,REC-SCOPUS-0023,REP-0023,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0023 on DOI_EXACT (DOI: 10.3390/agriculture13081549),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0002,REC-SCOPUS-0027,REP-0027,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0027 on DOI_EXACT (DOI: 10.3390/electronics11142110),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0008,REC-SCOPUS-0038,REP-0038,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0038 on DOI_EXACT (DOI: 10.1109/jstars.2025.3543190),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0028,REC-SCOPUS-0040,REP-0040,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0040 on DOI_EXACT (DOI: 10.1109/access.2024.3373000),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0015,REC-SCOPUS-0046,REP-0046,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0046 on DOI_EXACT (DOI: 10.1109/access.2026.3664467),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0072,REC-SCOPUS-0054,REP-0054,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0054 on DOI_EXACT (DOI: 10.1016/j.aiia.2023.07.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0503,REC-SCOPUS-0068,REP-0068,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0068 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102434),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0027,REC-SCOPUS-0075,REP-0075,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0075 on DOI_EXACT (DOI: 10.1109/access.2020.2973658),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0009,REC-SCOPUS-0085,REP-0085,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0085 on DOI_EXACT (DOI: 10.3390/plants12213675),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0065,REC-SCOPUS-0092,REP-0092,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0092 on DOI_EXACT (DOI: 10.1016/j.rineng.2025.105075),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0514,REC-SCOPUS-0092,REP-0092,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0092 on DOI_EXACT (DOI: 10.1016/j.rineng.2025.105075),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0517,REC-SCOPUS-0094,REP-0094,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0094 on DOI_EXACT (DOI: 10.1016/j.aiia.2026.06.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0034,REC-SCOPUS-0096,REP-0096,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0096 on DOI_EXACT (DOI: 10.1016/j.pmpp.2026.103371),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0476,REC-SCOPUS-0099,REP-0099,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0099 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100490),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0003,REC-SCOPUS-0101,REP-0101,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0101 on DOI_EXACT (DOI: 10.3390/app12167960),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0082,REC-SCOPUS-0102,REP-0102,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0102 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100526),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0526,REC-SCOPUS-0102,REP-0102,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0102 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100526),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0300,REC-SCOPUS-0109,REP-0109,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0109 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2025.103063),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0080,REC-SCOPUS-0110,REP-0110,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0110 on DOI_EXACT (DOI: 10.32604/cmc.2025.069970),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0050,REC-SCOPUS-0114,REP-0114,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0114 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2024.102718),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0489,REC-SCOPUS-0114,REP-0114,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0114 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2024.102718),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0026,REC-SCOPUS-0118,REP-0118,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0118 on DOI_EXACT (DOI: 10.1016/j.plaphe.2026.100191),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0049,REC-SCOPUS-0133,REP-0133,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0133 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100954),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0486,REC-SCOPUS-0133,REP-0133,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0133 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100954),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0201,REC-SCOPUS-0138,REP-0138,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0138 on DOI_EXACT (DOI: 10.1016/j.aiia.2022.11.002),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0539,REC-SCOPUS-0138,REP-0138,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0138 on DOI_EXACT (DOI: 10.1016/j.aiia.2022.11.002),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0037,REC-SCOPUS-0143,REP-0143,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0143 on DOI_EXACT (DOI: 10.1109/access.2023.3240100),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0113,REC-SCOPUS-0146,REP-0146,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0146 on DOI_EXACT (DOI: 10.1016/s2095-3119(21)63707-3),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0453,REC-SCOPUS-0146,REP-0146,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0146 on DOI_EXACT (DOI: 10.1016/s2095-3119(21)63707-3),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0031,REC-SCOPUS-0154,REP-0154,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0154 on DOI_EXACT (DOI: 10.1109/access.2024.3358333),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0012,REC-SCOPUS-0158,REP-0158,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0158 on DOI_EXACT (DOI: 10.32604/cmc.2023.027269),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0452,REC-SCOPUS-0158,REP-0158,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0158 on DOI_EXACT (DOI: 10.32604/cmc.2023.027269),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0143,REC-SCOPUS-0159,REP-0159,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0159 on DOI_EXACT (DOI: 10.1016/j.inpa.2026.02.008),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0259,REC-SCOPUS-0161,REP-0161,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0161 on DOI_EXACT (DOI: 10.1016/j.aej.2023.10.041),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0710,REC-SCOPUS-0161,REP-0161,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0161 on DOI_EXACT (DOI: 10.1016/j.aej.2023.10.041),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0024,REC-SCOPUS-0168,REP-0168,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0168 on DOI_EXACT (DOI: 10.1109/access.2024.3357099),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0008,REC-SCOPUS-0171,REP-0171,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0171 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100814),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0020,REC-SCOPUS-0172,REP-0172,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0172 on DOI_EXACT (DOI: 10.1016/j.aiia.2023.11.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0076,REC-SCOPUS-0189,REP-0189,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0189 on DOI_EXACT (DOI: 10.32604/cmc.2023.038446),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0618,REC-SCOPUS-0189,REP-0189,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0189 on DOI_EXACT (DOI: 10.32604/cmc.2023.038446),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0014,REC-SCOPUS-0198,REP-0198,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0198 on DOI_EXACT (DOI: 10.3390/electronics13204095),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0011,REC-SCOPUS-0201,REP-0201,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0201 on DOI_EXACT (DOI: 10.3390/plants13121621),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0520,REC-SCOPUS-0203,REP-0203,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0203 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102278),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0487,REC-SCOPUS-0208,REP-0208,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0208 on DOI_EXACT (DOI: 10.1016/j.mlwa.2025.100673),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0022,REC-SCOPUS-0218,REP-0218,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0218 on DOI_EXACT (DOI: 10.1016/j.jia.2024.03.075),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0005,REC-SCOPUS-0220,REP-0220,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0220 on DOI_EXACT (DOI: 10.32604/cmc.2026.077207),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0007,REC-SCOPUS-0224,REP-0224,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0224 on DOI_EXACT (DOI: 10.1109/access.2026.3662799),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0061,REC-SCOPUS-0226,REP-0226,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0226 on DOI_EXACT (DOI: 10.1016/j.cropd.2024.100092),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0509,REC-SCOPUS-0226,REP-0226,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0226 on DOI_EXACT (DOI: 10.1016/j.cropd.2024.100092),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0048,REC-SCOPUS-0227,REP-0227,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0227 on DOI_EXACT (DOI: 10.1016/j.fraope.2026.100513),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0591,REC-SCOPUS-0227,REP-0227,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0227 on DOI_EXACT (DOI: 10.1016/j.fraope.2026.100513),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0020,REC-SCOPUS-0231,REP-0231,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0231 on DOI_EXACT (DOI: 10.1109/access.2026.3660760),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0018,REC-SCOPUS-0244,REP-0244,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0244 on DOI_EXACT (DOI: 10.13052/jmm1550-4646.1829),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0264,REC-SCOPUS-0250,REP-0250,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0250 on DOI_EXACT (DOI: 10.1016/j.jafr.2023.100824),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0510,REC-SCOPUS-0250,REP-0250,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0250 on DOI_EXACT (DOI: 10.1016/j.jafr.2023.100824),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0053,REC-SCOPUS-0253,REP-0253,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0253 on DOI_EXACT (DOI: 10.32604/cmc.2021.012431),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0624,REC-SCOPUS-0255,REP-0255,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0255 on DOI_EXACT (DOI: 10.32604/cmc.2022.022161),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0028,REC-SCOPUS-0258,REP-0258,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0258 on DOI_EXACT (DOI: 10.1016/j.inpa.2026.05.003),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0468,REC-SCOPUS-0258,REP-0258,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0258 on DOI_EXACT (DOI: 10.1016/j.inpa.2026.05.003),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0035,REC-SCOPUS-0259,REP-0259,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0259 on DOI_EXACT (DOI: 10.1109/access.2024.3389648),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0097,REC-SCOPUS-0264,REP-0264,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0264 on DOI_EXACT (DOI: 10.1016/j.rsci.2023.06.005),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0087,REC-SCOPUS-0266,REP-0266,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0266 on DOI_EXACT (DOI: 10.32604/cmc.2022.022215),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0494,REC-SCOPUS-0270,REP-0270,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0270 on DOI_EXACT (DOI: 10.1016/j.array.2026.101170),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0025,REC-SCOPUS-0276,REP-0276,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0276 on DOI_EXACT (DOI: 10.1109/access.2022.3140815),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0091,REC-SCOPUS-0278,REP-0278,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0278 on DOI_EXACT (DOI: 10.1016/j.afres.2026.102525),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0089,REC-SCOPUS-0279,REP-0279,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0279 on DOI_EXACT (DOI: 10.32604/cmc.2022.024618),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0047,REC-SCOPUS-0284,REP-0284,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0284 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101226),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0484,REC-SCOPUS-0284,REP-0284,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0284 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101226),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0253,REC-SCOPUS-0286,REP-0286,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0286 on DOI_EXACT (DOI: 10.32604/cmc.2025.064166),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0704,REC-SCOPUS-0286,REP-0286,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0286 on DOI_EXACT (DOI: 10.32604/cmc.2025.064166),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0078,REC-SCOPUS-0290,REP-0290,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0290 on DOI_EXACT (DOI: 10.1016/j.inpa.2019.09.002),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0007,REC-SCOPUS-0291,REP-0291,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0291 on DOI_EXACT (DOI: 10.3390/agronomy13040961),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0009,REC-SCOPUS-0299,REP-0299,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0299 on DOI_EXACT (DOI: 10.1109/access.2024.3371511),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0130,REC-SCOPUS-0301,REP-0301,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0301 on DOI_EXACT (DOI: 10.1016/j.atech.2022.100108),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0465,REC-SCOPUS-0301,REP-0301,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0301 on DOI_EXACT (DOI: 10.1016/j.atech.2022.100108),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0463,REC-SCOPUS-0305,REP-0305,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0305 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e26647),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0019,REC-SCOPUS-0308,REP-0308,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0308 on DOI_EXACT (DOI: 10.1016/j.ijcce.2024.05.004),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0006,REC-SCOPUS-0313,REP-0313,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0313 on DOI_EXACT (DOI: 10.1109/access.2019.2943454),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0003,REC-SCOPUS-0314,REP-0314,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0314 on DOI_EXACT (DOI: 10.32604/cmc.2022.026542),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0013,REC-SCOPUS-0318,REP-0318,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0318 on DOI_EXACT (DOI: 10.1109/access.2023.3251098),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0198,REC-SCOPUS-0323,REP-0323,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0323 on DOI_EXACT (DOI: 10.1016/j.fraope.2025.100399),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0022,REC-SCOPUS-0332,REP-0332,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0332 on DOI_EXACT (DOI: 10.1109/access.2024.3451557),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0019,REC-SCOPUS-0338,REP-0338,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0338 on DOI_EXACT (DOI: 10.1109/access.2023.3264835),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0026,REC-SCOPUS-0344,REP-0344,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0344 on DOI_EXACT (DOI: 10.1109/access.2022.3159678),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0033,REC-SCOPUS-0351,REP-0351,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0351 on DOI_EXACT (DOI: 10.1109/access.2024.3524729),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0037,REC-SCOPUS-0354,REP-0354,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0354 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100726),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0039,REC-SCOPUS-0359,REP-0359,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0359 on DOI_EXACT (DOI: 10.1109/access.2024.3444796),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0030,REC-SCOPUS-0366,REP-0366,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0366 on DOI_EXACT (DOI: 10.1109/access.2018.2844405),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0010,REC-SCOPUS-0372,REP-0372,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0372 on DOI_EXACT (DOI: 10.1109/access.2023.3280260),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0038,REC-SCOPUS-0376,REP-0376,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0376 on DOI_EXACT (DOI: 10.1016/j.prime.2024.100534),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0002,REC-SCOPUS-0379,REP-0379,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0379 on DOI_EXACT (DOI: 10.1109/access.2026.3679392),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0001,REC-SCOPUS-0383,REP-0383,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0383 on DOI_EXACT (DOI: 10.13052/jmm1550-4646.18314),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0075,REC-SCOPUS-0389,REP-0389,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0389 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100867),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0005,REC-SCOPUS-0403,REP-0403,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0403 on DOI_EXACT (DOI: 10.3390/plants11172230),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0009,REC-SCOPUS-0405,REP-0405,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0405 on DOI_EXACT (DOI: 10.32604/cmc.2022.020017),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0005,REC-SCOPUS-0414,REP-0414,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0414 on DOI_EXACT (DOI: 10.1109/access.2025.3609671),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0124,REC-SCOPUS-0428,REP-0428,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0428 on DOI_EXACT (DOI: 10.1016/j.rineng.2025.107401),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0664,REC-SCOPUS-0428,REP-0428,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0428 on DOI_EXACT (DOI: 10.1016/j.rineng.2025.107401),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0015,REC-SCOPUS-0439,REP-0439,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0439 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e36694),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0457,REC-SCOPUS-0439,REP-0439,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0439 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e36694),2026-09-25,PRISMA_Deduplication_Script
+REC-MDPI-0006,REC-SCOPUS-0454,REP-0454,MDPI,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0454 on DOI_EXACT (DOI: 10.3390/app13031346),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0021,REC-SCOPUS-0468,REP-0468,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0468 on DOI_EXACT (DOI: 10.1109/access.2021.3120379),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0131,REC-SCOPUS-0480,REP-0480,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0480 on DOI_EXACT (DOI: 10.1016/j.jafr.2024.101148),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0467,REC-SCOPUS-0480,REP-0480,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0480 on DOI_EXACT (DOI: 10.1016/j.jafr.2024.101148),2026-09-25,PRISMA_Deduplication_Script
+REC-IEEE-0004,REC-SCOPUS-0485,REP-0485,IEEE Xplore,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0485 on DOI_EXACT (DOI: 10.1109/access.2022.3215497),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0528,REC-SCOPUS-0492,REP-0492,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0492 on DOI_EXACT (DOI: 10.1016/j.mlwa.2024.100556),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0069,REC-SCOPUS-0495,REP-0495,ScienceDirect,Scopus,DOI_EXACT,Matches primary record REC-SCOPUS-0495 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101301),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0442,REC-SD-0001,REP-0523,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0001 on DOI_EXACT (DOI: 10.32604/cmc.2023.037958),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0445,REC-SD-0004,REP-0525,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0004 on DOI_EXACT (DOI: 10.1016/j.procs.2026.06.544),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0447,REC-SD-0006,REP-0526,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0006 on DOI_EXACT (DOI: 10.1016/j.inpa.2024.03.002),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0449,REC-SD-0010,REP-0528,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0010 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101459),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0450,REC-SD-0011,REP-0529,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0011 on DOI_EXACT (DOI: 10.1016/j.hybadv.2025.100440),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0454,REC-SD-0013,REP-0530,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0013 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100662),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0456,REC-SD-0014,REP-0531,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0014 on DOI_EXACT (DOI: 10.1016/j.engappai.2025.113470),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0458,REC-SD-0016,REP-0532,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0016 on DOI_EXACT (DOI: 10.1016/j.cpb.2025.100562),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0558,REC-SD-0018,REP-0534,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0018 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2024.102859),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0464,REC-SD-0023,REP-0535,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0023 on DOI_EXACT (DOI: 10.1016/j.eswa.2025.128371),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0470,REC-SD-0029,REP-0539,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0029 on DOI_EXACT (DOI: 10.1016/j.gltp.2021.08.002),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0473,REC-SD-0032,REP-0542,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0032 on DOI_EXACT (DOI: 10.1016/j.procs.2024.04.281),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0477,REC-SD-0040,REP-0547,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0040 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100535),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0478,REC-SD-0041,REP-0548,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0041 on DOI_EXACT (DOI: 10.1016/j.jia.2026.06.035),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0479,REC-SD-0042,REP-0549,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0042 on DOI_EXACT (DOI: 10.1016/j.procs.2024.05.022),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0480,REC-SD-0043,REP-0550,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0043 on DOI_EXACT (DOI: 10.1016/j.fraope.2026.100707),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0146,REC-SD-0044,REP-0551,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0044 on DOI_EXACT (DOI: 10.1016/j.fraope.2026.100501),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0488,REC-SD-0051,REP-0554,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0051 on DOI_EXACT (DOI: 10.1016/j.procs.2025.04.301),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0502,REC-SD-0055,REP-0557,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0055 on DOI_EXACT (DOI: 10.1016/j.jafr.2022.100389),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0504,REC-SD-0056,REP-0558,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0056 on DOI_EXACT (DOI: 10.1016/j.procs.2022.11.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0604,REC-SD-0057,REP-0559,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0057 on DOI_EXACT (DOI: 10.1016/j.jer.2023.09.033),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0506,REC-SD-0059,REP-0561,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0059 on DOI_EXACT (DOI: 10.1016/j.jafr.2026.102733),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0508,REC-SD-0060,REP-0562,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0060 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e35625),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0512,REC-SD-0063,REP-0564,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0063 on DOI_EXACT (DOI: 10.1016/j.rineng.2025.103969),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0513,REC-SD-0064,REP-0565,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0064 on DOI_EXACT (DOI: 10.1016/j.procs.2025.01.013),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0516,REC-SD-0066,REP-0566,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0066 on DOI_EXACT (DOI: 10.1016/j.aej.2023.07.076),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0764,REC-SD-0068,REP-0568,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0068 on DOI_EXACT (DOI: 10.1016/j.compag.2024.109089),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0518,REC-SD-0074,REP-0572,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0074 on DOI_EXACT (DOI: 10.1016/j.atech.2023.100362),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0522,REC-SD-0077,REP-0573,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0077 on DOI_EXACT (DOI: 10.1016/j.inpa.2025.03.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0524,REC-SD-0079,REP-0574,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0079 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e33447),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0525,REC-SD-0081,REP-0575,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0081 on DOI_EXACT (DOI: 10.1016/j.fuproc.2024.108176),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0533,REC-SD-0090,REP-0580,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0090 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2024.102925),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0534,REC-SD-0095,REP-0584,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0095 on DOI_EXACT (DOI: 10.1016/j.procs.2023.01.017),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0536,REC-SD-0098,REP-0586,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0098 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101315),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0537,REC-SD-0099,REP-0587,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0099 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101464),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0441,REC-SD-0103,REP-0591,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0103 on DOI_EXACT (DOI: 10.32604/cmc.2025.061995),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0540,REC-SD-0106,REP-0594,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0106 on DOI_EXACT (DOI: 10.1016/j.jafr.2023.100764),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0543,REC-SD-0109,REP-0597,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0109 on DOI_EXACT (DOI: 10.1016/j.aiia.2024.06.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0451,REC-SD-0111,REP-0599,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0111 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101281),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0549,REC-SD-0112,REP-0600,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0112 on DOI_EXACT (DOI: 10.1016/j.imu.2022.100970),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0551,REC-SD-0114,REP-0601,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0114 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100408),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0552,REC-SD-0116,REP-0603,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0116 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101141),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0459,REC-SD-0119,REP-0606,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0119 on DOI_EXACT (DOI: 10.1016/j.jafr.2023.100787),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0461,REC-SD-0120,REP-0607,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0120 on DOI_EXACT (DOI: 10.1016/j.jafr.2025.101931),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0554,REC-SD-0121,REP-0608,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0121 on DOI_EXACT (DOI: 10.1016/j.napere.2025.100130),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0677,REC-SD-0133,REP-0616,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0133 on DOI_EXACT (DOI: 10.1016/j.rsci.2026.08.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0568,REC-SD-0137,REP-0620,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0137 on DOI_EXACT (DOI: 10.1016/j.rineng.2025.108826),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0569,REC-SD-0138,REP-0621,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0138 on DOI_EXACT (DOI: 10.1016/j.jag.2025.104413),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0575,REC-SD-0139,REP-0622,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0139 on DOI_EXACT (DOI: 10.1016/j.inpa.2024.09.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0576,REC-SD-0141,REP-0624,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0141 on DOI_EXACT (DOI: 10.1016/s2095-3119(19)62803-0),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0579,REC-SD-0142,REP-0625,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0142 on DOI_EXACT (DOI: 10.2174/0118743315305194240408034912),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0581,REC-SD-0144,REP-0626,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0144 on DOI_EXACT (DOI: 10.1016/j.dajour.2023.100305),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0582,REC-SD-0145,REP-0627,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0145 on DOI_EXACT (DOI: 10.34133/plantphenomics.0163),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0584,REC-SD-0147,REP-0628,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0147 on DOI_EXACT (DOI: 10.1016/j.procs.2026.06.354),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0483,REC-SD-0148,REP-0629,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0148 on DOI_EXACT (DOI: 10.1016/j.susoc.2023.03.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0485,REC-SD-0150,REP-0631,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0150 on DOI_EXACT (DOI: 10.34133/research.0491),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0589,REC-SD-0151,REP-0632,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0151 on DOI_EXACT (DOI: 10.1016/j.procs.2024.04.266),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0590,REC-SD-0152,REP-0633,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0152 on DOI_EXACT (DOI: 10.1016/j.atech.2026.101824),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0491,REC-SD-0156,REP-0637,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0156 on DOI_EXACT (DOI: 10.1016/j.indcrop.2026.122971),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0490,REC-SD-0157,REP-0638,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0157 on DOI_EXACT (DOI: 10.1016/j.inpa.2021.10.004),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0492,REC-SD-0158,REP-0639,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0158 on DOI_EXACT (DOI: 10.32604/cmc.2025.059245),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0497,REC-SD-0160,REP-0641,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0160 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e29912),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0500,REC-SD-0162,REP-0643,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0162 on DOI_EXACT (DOI: 10.1016/j.procs.2025.02.072),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0501,REC-SD-0166,REP-0647,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0166 on DOI_EXACT (DOI: 10.1016/j.heliyon.2023.e18261),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0600,REC-SD-0167,REP-0648,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0167 on DOI_EXACT (DOI: 10.1016/j.ecoenv.2024.116704),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0603,REC-SD-0168,REP-0649,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0168 on DOI_EXACT (DOI: 10.1016/j.iswa.2024.200356),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0507,REC-SD-0169,REP-0650,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0169 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101409),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0605,REC-SD-0170,REP-0651,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0170 on DOI_EXACT (DOI: 10.1016/j.eij.2026.100941),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0606,REC-SD-0172,REP-0653,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0172 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e36092),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0511,REC-SD-0174,REP-0655,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0174 on DOI_EXACT (DOI: 10.1016/j.measen.2022.100441),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0610,REC-SD-0176,REP-0657,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0176 on DOI_EXACT (DOI: 10.1016/j.aiia.2021.12.002),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0616,REC-SD-0177,REP-0658,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0177 on DOI_EXACT (DOI: 10.1016/j.dsim.2025.05.002),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0726,REC-SD-0182,REP-0663,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0182 on DOI_EXACT (DOI: 10.1016/j.eng.2024.03.014),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0621,REC-SD-0183,REP-0664,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0183 on DOI_EXACT (DOI: 10.1016/j.procs.2020.03.225),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0523,REC-SD-0184,REP-0665,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0184 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101619),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0625,REC-SD-0187,REP-0668,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0187 on DOI_EXACT (DOI: 10.1016/j.jia.2023.11.037),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0732,REC-SD-0188,REP-0669,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0188 on DOI_EXACT (DOI: 10.1016/j.procs.2023.01.179),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0632,REC-SD-0194,REP-0675,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0194 on DOI_EXACT (DOI: 10.1016/j.plaphe.2025.100058),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0532,REC-SD-0195,REP-0676,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0195 on DOI_EXACT (DOI: 10.2174/0118743315288623240223072349),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0535,REC-SD-0199,REP-0679,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0199 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101326),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0640,REC-SD-0202,REP-0681,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0202 on DOI_EXACT (DOI: 10.1016/j.procs.2026.06.586),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0541,REC-SD-0204,REP-0683,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0204 on DOI_EXACT (DOI: 10.1016/j.rineng.2026.111445),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0647,REC-SD-0207,REP-0686,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0207 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102406),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0545,REC-SD-0208,REP-0687,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0208 on DOI_EXACT (DOI: 10.32604/cmc.2025.062010),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0547,REC-SD-0209,REP-0688,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0209 on DOI_EXACT (DOI: 10.32604/cmc.2025.060185),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0546,REC-SD-0210,REP-0689,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0210 on DOI_EXACT (DOI: 10.1016/j.iswa.2025.200490),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0550,REC-SD-0213,REP-0692,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0213 on DOI_EXACT (DOI: 10.1016/j.sciaf.2020.e00590),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0759,REC-SD-0214,REP-0693,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0214 on DOI_EXACT (DOI: 10.1016/j.jia.2026.01.043),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0658,REC-SD-0217,REP-0696,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0217 on DOI_EXACT (DOI: 10.1016/j.aiia.2026.05.003),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0555,REC-SD-0218,REP-0697,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0218 on DOI_EXACT (DOI: 10.34133/plantphenomics.0049),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0559,REC-SD-0220,REP-0699,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0220 on DOI_EXACT (DOI: 10.1016/j.procs.2026.06.163),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0666,REC-SD-0221,REP-0700,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0221 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100895),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0565,REC-SD-0225,REP-0704,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0225 on DOI_EXACT (DOI: 10.1016/j.jafr.2025.101930),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0566,REC-SD-0226,REP-0705,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0226 on DOI_EXACT (DOI: 10.32604/cmc.2021.017591),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0567,REC-SD-0227,REP-0706,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0227 on DOI_EXACT (DOI: 10.1016/j.cpb.2025.100459),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0680,REC-SD-0229,REP-0708,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0229 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102392),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0572,REC-SD-0234,REP-0713,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0234 on DOI_EXACT (DOI: 10.1016/j.array.2025.100395),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0574,REC-SD-0236,REP-0715,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0236 on DOI_EXACT (DOI: 10.1016/j.procs.2025.04.308),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0578,REC-SD-0239,REP-0718,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0239 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102154),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0585,REC-SD-0241,REP-0720,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0241 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e39569),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0691,REC-SD-0243,REP-0722,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0243 on DOI_EXACT (DOI: 10.32604/cmes.2022.020263),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0772,REC-SD-0245,REP-0724,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0245 on DOI_EXACT (DOI: 10.1016/j.measurement.2024.115072),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0739,REC-SD-0246,REP-0725,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0246 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100498),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0592,REC-SD-0247,REP-0726,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0247 on DOI_EXACT (DOI: 10.32604/cmc.2021.017700),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0493,REC-SD-0248,REP-0727,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0248 on DOI_EXACT (DOI: 10.1016/j.jafr.2023.100756),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0597,REC-SD-0251,REP-0730,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0251 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2025.103205),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0705,REC-SD-0252,REP-0731,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0252 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101568),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0601,REC-SD-0255,REP-0733,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0255 on DOI_EXACT (DOI: 10.1016/j.atech.2024.100480),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0709,REC-SD-0256,REP-0734,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0256 on DOI_EXACT (DOI: 10.1016/j.procs.2025.09.057),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0714,REC-SD-0261,REP-0738,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0261 on DOI_EXACT (DOI: 10.1016/j.jia.2026.02.002),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0713,REC-SD-0262,REP-0739,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0262 on DOI_EXACT (DOI: 10.1016/j.inpa.2024.02.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0607,REC-SD-0263,REP-0740,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0263 on DOI_EXACT (DOI: 10.1016/j.procs.2024.03.192),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0608,REC-SD-0265,REP-0741,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0265 on DOI_EXACT (DOI: 10.32604/cmc.2022.023357),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0609,REC-SD-0266,REP-0742,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0266 on DOI_EXACT (DOI: 10.1016/j.aiia.2026.02.003),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0722,REC-SD-0269,REP-0745,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0269 on DOI_EXACT (DOI: 10.1016/j.jafr.2026.102744),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0771,REC-SD-0272,REP-0748,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0272 on DOI_EXACT (DOI: 10.1016/j.procs.2020.03.308),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0724,REC-SD-0273,REP-0749,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0273 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102080),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0619,REC-SD-0276,REP-0752,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0276 on DOI_EXACT (DOI: 10.1016/j.jksuci.2022.09.013),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0727,REC-SD-0277,REP-0753,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0277 on DOI_EXACT (DOI: 10.1016/j.inpa.2024.09.003),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0730,REC-SD-0282,REP-0758,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0282 on DOI_EXACT (DOI: 10.1016/j.procs.2023.10.615),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0626,REC-SD-0287,REP-0763,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0287 on DOI_EXACT (DOI: 10.1016/j.procs.2020.03.236),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0756,REC-SD-0288,REP-0764,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0288 on DOI_EXACT (DOI: 10.1016/j.atech.2026.101779),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0734,REC-SD-0290,REP-0766,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0290 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2026.103703),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0760,REC-SD-0293,REP-0769,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0293 on DOI_EXACT (DOI: 10.1016/j.rico.2026.100723),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0633,REC-SD-0294,REP-0770,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0294 on DOI_EXACT (DOI: 10.32604/cmc.2025.060745),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0634,REC-SD-0297,REP-0773,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0297 on DOI_EXACT (DOI: 10.1016/j.engappai.2025.110117),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0637,REC-SD-0298,REP-0774,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0298 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101396),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0740,REC-SD-0303,REP-0778,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0303 on DOI_EXACT (DOI: 10.1016/j.compag.2025.110048),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0641,REC-SD-0305,REP-0780,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0305 on DOI_EXACT (DOI: 10.1016/j.aej.2026.04.027),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0645,REC-SD-0306,REP-0781,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0306 on DOI_EXACT (DOI: 10.1016/j.plaphe.2025.100132),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0644,REC-SD-0307,REP-0782,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0307 on DOI_EXACT (DOI: 10.1016/j.iot.2025.101700),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0648,REC-SD-0309,REP-0784,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0309 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2025.103224),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0650,REC-SD-0310,REP-0785,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0310 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101282),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0752,REC-SD-0315,REP-0790,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0315 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2026.103865),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0755,REC-SD-0316,REP-0791,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0316 on DOI_EXACT (DOI: 10.1016/j.eng.2025.08.021),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0659,REC-SD-0320,REP-0795,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0320 on DOI_EXACT (DOI: 10.1016/j.procs.2026.06.434),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0661,REC-SD-0321,REP-0796,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0321 on DOI_EXACT (DOI: 10.1016/j.fraope.2026.100726),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0669,REC-SD-0327,REP-0802,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0327 on DOI_EXACT (DOI: 10.1016/j.aiia.2023.09.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0774,REC-SD-0328,REP-0803,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0328 on DOI_EXACT (DOI: 10.1016/j.compag.2025.110058),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0674,REC-SD-0331,REP-0806,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0331 on DOI_EXACT (DOI: 10.1016/j.procs.2025.04.612),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0742,REC-SD-0333,REP-0808,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0333 on DOI_EXACT (DOI: 10.1016/j.atech.2023.100279),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0679,REC-SD-0337,REP-0812,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0337 on DOI_EXACT (DOI: 10.1016/j.compag.2024.108719),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0682,REC-SD-0338,REP-0813,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0338 on DOI_EXACT (DOI: 10.1016/j.rineng.2024.103301),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0685,REC-SD-0342,REP-0817,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0342 on DOI_EXACT (DOI: 10.32604/cmc.2023.037857),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0687,REC-SD-0344,REP-0819,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0344 on DOI_EXACT (DOI: 10.1016/j.ijcce.2026.08.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0580,REC-SD-0346,REP-0821,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0346 on DOI_EXACT (DOI: 10.34133/plantphenomics.0054),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0587,REC-SD-0347,REP-0822,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0347 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e28967),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0690,REC-SD-0348,REP-0823,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0348 on DOI_EXACT (DOI: 10.1016/j.aiia.2023.12.003),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0692,REC-SD-0349,REP-0824,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0349 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101415),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0694,REC-SD-0351,REP-0826,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0351 on DOI_EXACT (DOI: 10.1016/j.jksuci.2022.07.004),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0593,REC-SD-0352,REP-0827,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0352 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e28264),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0594,REC-SD-0353,REP-0828,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0353 on DOI_EXACT (DOI: 10.34133/plantphenomics.0039),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0695,REC-SD-0354,REP-0829,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0354 on DOI_EXACT (DOI: 10.1016/j.jia.2026.03.014),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0696,REC-SD-0355,REP-0830,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0355 on DOI_EXACT (DOI: 10.32604/cmc.2022.018961),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0697,REC-SD-0356,REP-0831,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0356 on DOI_EXACT (DOI: 10.32604/cmc.2024.047697),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0698,REC-SD-0357,REP-0832,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0357 on DOI_EXACT (DOI: 10.1016/j.compag.2026.111560),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0700,REC-SD-0361,REP-0836,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0361 on DOI_EXACT (DOI: 10.1016/j.heliyon.2024.e29802),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0706,REC-SD-0363,REP-0838,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0363 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2026.103667),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0711,REC-SD-0369,REP-0844,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0369 on DOI_EXACT (DOI: 10.1016/j.aiia.2026.02.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0715,REC-SD-0372,REP-0847,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0372 on DOI_EXACT (DOI: 10.1016/j.jafr.2023.100658),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0718,REC-SD-0373,REP-0848,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0373 on DOI_EXACT (DOI: 10.1016/j.cj.2026.07.003),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0719,REC-SD-0375,REP-0850,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0375 on DOI_EXACT (DOI: 10.1016/j.icte.2021.08.019),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0613,REC-SD-0378,REP-0853,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0378 on DOI_EXACT (DOI: 10.1016/j.compag.2026.112158),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0723,REC-SD-0379,REP-0854,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0379 on DOI_EXACT (DOI: 10.1016/j.procs.2023.01.225),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0731,REC-SD-0386,REP-0861,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0386 on DOI_EXACT (DOI: 10.1016/j.procs.2025.08.133),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0735,REC-SD-0393,REP-0868,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0393 on DOI_EXACT (DOI: 10.1016/j.procs.2026.05.065),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0636,REC-SD-0397,REP-0872,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0397 on DOI_EXACT (DOI: 10.34133/plantphenomics.0208),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0638,REC-SD-0398,REP-0873,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0398 on DOI_EXACT (DOI: 10.1016/j.procs.2026.06.310),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0741,REC-SD-0405,REP-0880,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0405 on DOI_EXACT (DOI: 10.1016/j.inpa.2025.02.001),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0743,REC-SD-0407,REP-0882,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0407 on DOI_EXACT (DOI: 10.1016/j.ecoinf.2024.102809),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0744,REC-SD-0408,REP-0883,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0408 on DOI_EXACT (DOI: 10.34133/plantphenomics.0272),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0745,REC-SD-0409,REP-0884,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0409 on DOI_EXACT (DOI: 10.1016/j.procs.2025.01.254),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0652,REC-SD-0411,REP-0886,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0411 on DOI_EXACT (DOI: 10.1016/j.atech.2026.102078),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0748,REC-SD-0414,REP-0889,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0414 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100902),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0708,REC-SD-0415,REP-0890,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0415 on DOI_EXACT (DOI: 10.1016/j.jia.2026.03.005),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0750,REC-SD-0417,REP-0892,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0417 on DOI_EXACT (DOI: 10.34133/2020/5839856),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0751,REC-SD-0418,REP-0893,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0418 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101429),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0754,REC-SD-0420,REP-0895,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0420 on DOI_EXACT (DOI: 10.1016/j.aiia.2026.08.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0757,REC-SD-0422,REP-0897,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0422 on DOI_EXACT (DOI: 10.32604/phyton.2022.023662),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0758,REC-SD-0423,REP-0898,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0423 on DOI_EXACT (DOI: 10.1016/j.cj.2025.09.017),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0763,REC-SD-0431,REP-0906,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0431 on DOI_EXACT (DOI: 10.1016/j.jksuci.2020.09.006),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0765,REC-SD-0432,REP-0907,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0432 on DOI_EXACT (DOI: 10.1016/j.array.2026.101246),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0766,REC-SD-0433,REP-0908,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0433 on DOI_EXACT (DOI: 10.1016/j.atech.2025.101134),2026-09-25,PRISMA_Deduplication_Script
+REC-SD-0769,REC-SD-0438,REP-0913,ScienceDirect,ScienceDirect,DOI_EXACT,Matches primary record REC-SD-0438 on DOI_EXACT (DOI: 10.1016/j.atech.2025.100883),2026-09-25,PRISMA_Deduplication_Script

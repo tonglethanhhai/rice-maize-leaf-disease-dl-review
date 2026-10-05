@@ -1,0 +1,7 @@
+dataset,arch,protocol,seed,n_train,n_train_originals,items_per_epoch,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,minutes
+sethy,efficientnet_b0,P3m_offline_matched,0,24876,4146,8292,549,1237,1.0,0.98707,0.98653,6,8.4
+sethy,efficientnet_b0,P3m_offline_matched,1,25320,4220,8440,609,1103,1.0,1.0,1.0,7,6.3
+sethy,efficientnet_b0,P3m_offline_matched,2,25182,4197,8394,585,1150,1.0,1.0,1.0,9,7.4
+sethy,efficientnet_b0,P1m_leak_matched,0,31061,4146,8292,549,1237,1.0,1.0,1.0,8,5.0
+sethy,efficientnet_b0,P1m_leak_matched,1,30835,4220,8440,609,1103,1.0,1.0,1.0,6,3.9
+sethy,efficientnet_b0,P1m_leak_matched,2,30932,4197,8394,585,1150,1.0,1.0,1.0,6,3.9

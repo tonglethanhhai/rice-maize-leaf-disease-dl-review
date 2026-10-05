@@ -1,0 +1,74 @@
+PRISMA flow
+[PASS] records identified: 1333
+[PASS] by source: {'Scopus': 499, 'IEEE Xplore': 41, 'ScienceDirect': 774, 'MDPI': 19}
+[PASS] duplicates removed: 296
+[PASS] duplicates matched on DOI: 296
+[PASS] records screened: 1037
+[PASS] excluded at title/abstract: 692
+[PASS] reports sought: 345
+[PASS] reports not retrieved: 5
+[PASS] reports assessed: 340
+[PASS] excluded at full text: 138
+[PASS] excluded for leakage (G3-LEAK): 93
+[PASS] excluded for other invalid protocols (G3-PROTOCOL, G3-SMALL): 19
+[PASS] studies included: 202
+[PASS] included by crop: {'rice': 121, 'maize': 77, 'both': 4}
+[PASS] included by task: {'T1': 160, 'T2': 35, 'T3': 17, 'T4': 4}
+
+Search yield
+[PASS] per source (found, Rec %, P %, unique): {'Scopus': (189, 93.6, 37.9, 149), 'IEEE Xplore': (18, 8.9, 43.9, 2), 'ScienceDirect': (31, 15.3, 4.0, 10), 'MDPI': (4, 2.0, 21.1, 1)}
+[PASS] precision P (%): 19.5
+[PASS] number needed to read: 5.1
+[PASS] found in two or more sources: 40
+
+Representative studies
+[PASS] quota table (studies, clean, quota, selected, selected clean): [('T1', 'rice', 97, 46, 10, 10, 8), ('T1', 'maize', 59, 37, 8, 8, 8), ('T2', 'rice', 19, 13, 5, 5, 5), ('T2', 'maize', 16, 11, 4, 4, 4), ('T3', 'rice', 11, 4, 4, 4, 4), ('T3', 'maize', 6, 5, 3, 3, 3), ('T4', 'any', 4, 2, 4, 4, 2)]
+[PASS] representative studies: 38
+[PASS] representative with clean protocol: 34
+[PASS] each study selected once: 38
+
+Inferential statistics
+[PASS] leakage coding: {'suspect': 52, 'clean': 116, 'unknown': 34}
+[PASS] Wilson 95% CI, suspect leakage: (25.7, 20.2, 32.2)
+[PASS] Wilson 95% CI, no independent validation set: (43.6, 36.9, 50.5)
+[PASS] Wilson 95% CI, external test: (8.4, 5.3, 13.1)
+[PASS] Wilson 95% CI, edge deployment: (5.9, 3.4, 10.1)
+[PASS] Wilson 95% CI, code or data released: (8.9, 5.7, 13.6)
+[PASS] Wilson 95% CI, full-text exclusions for leakage: (27.4, 22.9, 32.3)
+[PASS] Mann-Whitney U, T1 accuracy, suspect vs clean (U, r): (1240.5, np.float64(0.351))
+[PASS] quartiles, T1 accuracy, clean: [95.31, 97.44, 98.56]
+[PASS] Mann-Whitney U, citations, suspect vs clean (U, r): (2145.5, np.float64(0.189))
+[PASS] quartiles, citations, clean: [1.0, 7.0, 21.25]
+
+Leakage re-analysis and external-test gap (scripts 27, 28)
+[PASS] clear or suspected leakage among 340 full-text reports: (42.6, 37.5, 48.0)
+[PASS] ... plus other invalid protocols: (48.2, 43.0, 53.5)
+[PASS] Hodges-Lehmann shift, suspect - clean (points): 1.05
+[PASS] results >= 99.5%, clean / suspect: (6, 11)
+[PASS] explicit-leakage CLS accuracy (n, median): (66, 97.95)
+[PASS] van Elteren within-source p (stored): 0.2
+[PASS] rank regression with source FE, p (stored): 0.19
+[PASS] Holm-adjusted p of the confirmatory sensitivity tests (Fisher >=99.5 %, van Elteren, rank regression with source FE): (0.035, 0.376, 0.376)
+[PASS] citations NB2 IRR [CI] (stored): (1.03, 0.62, 1.71)
+[PASS] external test: accuracy-only gaps (n, median): (11, 6.85)
+[PASS] external test: genuine transfer studies: 13
+[PASS] external test: median, q1, q3, min, max of delta: [6.85, 4.5, 10.0, -1.9, 17.65]
+
+Near-duplicate measurements (script 31)
+[PASS] rho, random 80/20 image split (verified criterion), Sethy / Paddy Doctor / PlantVillage corn: (95.8, 25.0, 0.2)
+[PASS] L3 relabel log rows: 18
+
+Controlled split experiment (script 34, leakage_experiments/results/*/runs.csv)
+[PASS] controlled split experiment: AUG-SPLIT - GROUP-SPLIT test accuracy (points), Sethy / PV corn / Kaggle corn: (np.float64(0.83), np.float64(1.85), np.float64(2.47))
+[PASS] PlantVillage corn -> PlantDoc external accuracy range over protocols (%): (np.float64(28.7), np.float64(33.2))
+[PASS] GROUP-SPLIT split sizes reproduced from the lenient group file images.csv (runs): (9, 9)
+
+Matched pair at equal training budget (MATCH-CTRL vs MATCH-LEAK)
+[PASS] MATCH-LEAK - MATCH-CTRL test accuracy, ResNet-50: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.56, 1.17, 1.81, 2.71)
+[PASS] seeds per dataset, ResNet-50: (5, 5, 5, 3)
+[PASS] MATCH-LEAK - MATCH-CTRL test accuracy, EfficientNet-B0: Sethy / PV corn / Kaggle corn (points): (0.43, 1.43, 2.66)
+[PASS] seeds per dataset, EfficientNet-B0: (3, 3, 3)
+[PASS] both arms: same validation set, test set and training items per epoch in every run: (7, 7)
+[PASS] PlantVillage maize -> PlantDoc external accuracy, ResNet-50 then EfficientNet-B0 (CTRL, LEAK, %): (29.6, 31.9, 27.0, 34.4)
+
+All checks passed.

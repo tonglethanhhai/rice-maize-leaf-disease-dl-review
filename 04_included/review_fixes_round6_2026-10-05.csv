@@ -1,0 +1,13 @@
+﻿report_id,field,old,new
+REP-0478,decision,NHẬN,LOẠI / G3-PROTOCOL
+REP-0229,decision,LOẠI / G3-LEAK,NHẬN / leakage Nghi ngờ
+REP-0390,decision,NHẬN,LOẠI / G3-PROTOCOL
+REP-0297,decision,NHẬN,LOẠI / G3-PROTOCOL
+REP-0037,external_test,no,yes
+REP-0106,leakage,suspect,clean
+REP-0973,leakage,suspect,clean
+REP-0229,coding,absent,added to results/code_05_review_round6.json
+REP-0973,leakage_criteria,L4,L4
+REP-0419,leakage_criteria,L4,L1+L4
+REP-0106,leakage_criteria,L4,L4
+REP-0037,external_delta,absent,[NO-QUANT] row

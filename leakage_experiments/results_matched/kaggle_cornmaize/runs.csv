@@ -1,0 +1,11 @@
+dataset,arch,protocol,seed,n_train,n_train_originals,items_per_epoch,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,minutes
+kaggle_cornmaize,resnet50,P3m_offline_matched,0,17550,2925,5850,420,843,0.97857,0.96679,0.95593,20,14.4
+kaggle_cornmaize,resnet50,P3m_offline_matched,1,17664,2944,5888,413,831,0.954,0.97232,0.96259,17,11.9
+kaggle_cornmaize,resnet50,P3m_offline_matched,2,17496,2916,5832,429,843,0.95804,0.96679,0.96083,11,7.8
+kaggle_cornmaize,resnet50,P3m_offline_matched,3,17616,2936,5872,415,837,0.96627,0.96655,0.95714,12,8.8
+kaggle_cornmaize,resnet50,P3m_offline_matched,4,17556,2926,5852,422,840,0.96445,0.9619,0.95291,8,5.8
+kaggle_cornmaize,resnet50,P1m_leak_matched,0,21765,2925,5850,420,843,0.97381,0.98221,0.97481,11,7.4
+kaggle_cornmaize,resnet50,P1m_leak_matched,1,21819,2944,5888,413,831,0.96126,0.97954,0.97292,8,5.5
+kaggle_cornmaize,resnet50,P1m_leak_matched,2,21711,2916,5832,429,843,0.95338,0.98339,0.97853,11,7.5
+kaggle_cornmaize,resnet50,P1m_leak_matched,3,21801,2936,5872,415,837,0.97349,0.99044,0.98805,16,11.0
+kaggle_cornmaize,resnet50,P1m_leak_matched,4,21756,2926,5852,422,840,0.96682,0.98929,0.98664,16,12.4

@@ -1,0 +1,41 @@
+{
+ "dataset": "pvcorn",
+ "classes": [
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+  "Corn_(maize)___Common_rust_",
+  "Corn_(maize)___Northern_Leaf_Blight",
+  "Corn_(maize)___healthy"
+ ],
+ "protocols": {
+  "P1m_leak_matched": {
+   "test_acc": {
+    "mean": 0.9957,
+    "sd": 0.0041
+   },
+   "test_macro_f1": {
+    "mean": 0.9941,
+    "sd": 0.0052
+   },
+   "ext_acc": {
+    "mean": 0.344,
+    "sd": 0.0107
+   },
+   "n_seeds": 3
+  },
+  "P3m_offline_matched": {
+   "test_acc": {
+    "mean": 0.9814,
+    "sd": 0.0083
+   },
+   "test_macro_f1": {
+    "mean": 0.9745,
+    "sd": 0.0109
+   },
+   "ext_acc": {
+    "mean": 0.2702,
+    "sd": 0.04
+   },
+   "n_seeds": 3
+  }
+ }
+}

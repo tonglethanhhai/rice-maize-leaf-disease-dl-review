@@ -1,0 +1,40 @@
+{
+ "dataset": "paddydoctor",
+ "n_images": 10407,
+ "verified": {
+  "pairs": 2899,
+  "groups": 8498,
+  "share_in_dup_groups": 0.2764,
+  "largest_group": 17,
+  "groups_spanning_classes": 23,
+  "rho_random_80_20": 0.2502,
+  "rho_sd": 0.008
+ },
+ "strict": {
+  "pairs": 2448,
+  "groups": 8722,
+  "share_in_dup_groups": 0.2485,
+  "largest_group": 16,
+  "groups_spanning_classes": 21,
+  "rho_random_80_20": 0.2224,
+  "rho_sd": 0.0075
+ },
+ "dino99": {
+  "pairs": 1423,
+  "groups": 9393,
+  "share_in_dup_groups": 0.1494,
+  "largest_group": 30,
+  "groups_spanning_classes": 15,
+  "rho_random_80_20": 0.1332,
+  "rho_sd": 0.0066
+ },
+ "lenient": {
+  "pairs": 162554,
+  "groups": 844,
+  "share_in_dup_groups": 0.9513,
+  "largest_group": 7468,
+  "groups_spanning_classes": 19,
+  "rho_random_80_20": 0.9467,
+  "rho_sd": 0.0036
+ }
+}

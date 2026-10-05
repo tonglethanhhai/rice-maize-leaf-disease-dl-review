@@ -1,0 +1,7 @@
+dataset,arch,protocol,seed,n_train,n_train_originals,items_per_epoch,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,minutes
+kaggle_cornmaize,efficientnet_b0,P3m_offline_matched,0,17550,2925,5850,420,843,0.96905,0.96916,0.95691,14,8.8
+kaggle_cornmaize,efficientnet_b0,P3m_offline_matched,1,17664,2944,5888,413,831,0.94431,0.97232,0.96343,7,3.9
+kaggle_cornmaize,efficientnet_b0,P3m_offline_matched,2,17496,2916,5832,429,843,0.96503,0.95611,0.94665,13,6.6
+kaggle_cornmaize,efficientnet_b0,P1m_leak_matched,0,21765,2925,5850,420,843,0.97143,0.99763,0.99654,14,6.3
+kaggle_cornmaize,efficientnet_b0,P1m_leak_matched,1,21819,2944,5888,413,831,0.95157,0.98797,0.98351,11,5.6
+kaggle_cornmaize,efficientnet_b0,P1m_leak_matched,2,21711,2916,5832,429,843,0.96037,0.9917,0.98997,10,5.4

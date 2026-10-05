@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the review article and this dataset."
+title: "Deep learning for rice and maize leaf disease recognition, 2016-2026: review data, evidence tables and leakage experiments"
+type: dataset
+version: "1.3.0"
+date-released: "2026-10-05"
+authors:
+  - family-names: "Tong-Le"
+    given-names: "Thanh-Hai"
+    orcid: "https://orcid.org/0009-0000-9771-9553"
+    affiliation: "Tien Giang University; Tra Vinh University"
+  - family-names: "Le"
+    given-names: "Minh-Hai"
+    orcid: "https://orcid.org/0000-0002-3966-2189"
+    affiliation: "Tra Vinh University"
+  - family-names: "Doan"
+    given-names: "Thanh-Nghi"
+    orcid: "https://orcid.org/0000-0002-9957-0948"
+    affiliation: "An Giang University; Vietnam National University Ho Chi Minh City"
+repository-code: "https://github.com/tonglethanhhai/rice-maize-leaf-disease-dl-review"
+license: CC-BY-4.0
+keywords:
+  - systematic review
+  - PRISMA 2020
+  - deep learning
+  - rice leaf disease
+  - maize leaf disease
+  - data leakage
+  - near-duplicate detection
+identifiers:
+  - type: doi
+    value: "10.17605/OSF.IO/FWZ4S"
+    description: "OSF registration of the review protocol"
+preferred-citation:
+  type: article
+  title: "Deep learning for rice and maize leaf disease recognition: a systematic review of classification, detection, segmentation and generative modeling"
+  authors:
+    - family-names: "Tong-Le"
+      given-names: "Thanh-Hai"
+    - family-names: "Le"
+      given-names: "Minh-Hai"
+    - family-names: "Doan"
+      given-names: "Thanh-Nghi"
+  year: 2026

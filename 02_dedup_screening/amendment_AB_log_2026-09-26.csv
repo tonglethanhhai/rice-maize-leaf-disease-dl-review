@@ -1,0 +1,74 @@
+﻿report_id,code,title
+REP-0001,X8_MODALITY,Integration of UAV and Remote Sensing Data for Early Diagnosis and Severity Mapping of Diseases in Maize Crop Through Deep Learning and Reinforcement Learning
+REP-0009,X8_MODALITY,Autonomous Detection of Plant Disease Symptoms Directly from Aerial Imagery
+REP-0013,X8_MODALITY,Implementation of a Real-Time Maize Leaf Disease Detection System Using Raspberry Pi 5 and YOLOv8
+REP-0018,X1_MULTI,A deep learning-based framework for large-scale plant disease detection using big data analytics in precision agriculture
+REP-0032,X1_MULTI,"Optimized Crop Disease Identification in Bangladesh: A Deep Learning and SVM Hybrid Model for Rice, Potato, and Corn"
+REP-0035,X1_MULTI,A Multi-Stage Deep Learning Model with Fuzzy Logic for Plant Disease Classification in Cotton and Rice
+REP-0038,X8_MODALITY,Hybrid Integrated Feature Fusion of Handcrafted and Deep Features for Rice Blast Resistance Identification Using UAV Imagery
+REP-0051,X8_MODALITY,Investigation on Data Fusion of Multisource Spectral Data for Rice Leaf Diseases Identification Using Machine Learning Methods
+REP-0067,X8_MODALITY,Quantitative Phenotyping of Northern Leaf Blight in UAV Images Using Deep Learning
+REP-0068,X1_MULTI,"Robustness, vulnerability, and deployment readiness of CNNs, vision transformers, and vision–language models for plant disease diagnosis"
+REP-0084,X1_MULTI,Plant MAE-prompt: Lesion-aware Self-supervised Pretraining with Hierarchical Prompt Tuning for Cross-crop Overlapped Disease Detection in Corn and Tomato Leaves
+REP-0085,X8_MODALITY,Early Detection of Rice Blast Using a Semi-Supervised Contrastive Unpaired Translation Iterative Network Based on UAV Images
+REP-0086,X8_MODALITY,Y–Net: Identification of Typical Diseases of Corn Leaves Using a 3D–2D Hybrid CNN Model Combined with a Hyperspectral Image Band Selection Module
+REP-0092,X1_MULTI,"Plantention: A general-purpose, lightweight and attention-based model for multi-crop leaf disease classification"
+REP-0100,X8_MODALITY,Field-Scale Detection of Rice Bacterial Leaf Blight Using UAV-Based Multispectral Imagery: Via Cross-Scale Sample-Label Transfer and Spatial–Spectral Feature Fusion
+REP-0102,X1_MULTI,"""Semantic segmentation for plant leaf disease classification and damage detection: A deep learning approach"""
+REP-0105,X1_MULTI,A hybrid Framework for plant leaf disease detection and classification using convolutional neural networks and vision transformer
+REP-0119,X8_MODALITY,"Hyperspectral Imaging and Machine Learning for Diagnosing Rice Bacterial Blight Symptoms Caused by Xanthomonas oryzae pv. oryzae, Pantoea ananatis and Enterobacter asburiae"
+REP-0124,X1_MULTI,Modified RefineNet with Attention-Based Fusion for Multi-Class Classification of Corn and Pepper Plant Diseases
+REP-0125,X1_MULTI,Robust CRW crops leaf disease detection and classification in agriculture using hybrid deep learning models
+REP-0136,X1_MULTI,Classification of Plant Leaf Disease Recognition Based on Self-Supervised Learning
+REP-0139,X8_MODALITY,A Weakly Supervised Approach for Disease Segmentation of Maize Northern Leaf Blight from UAV Images
+REP-0147,X1_MULTI,An explainable deep learning framework for few shot crop disease detection in rice and sugarcane using CNN based feature extraction
+REP-0149,X8_MODALITY,Detecting Asymptomatic Infections of Rice Bacterial Leaf Blight Using Hyperspectral Imaging and 3-Dimensional Convolutional Neural Network With Spectral Dilated Convolution
+REP-0154,X1_MULTI,Real-Time Plant Disease Dataset Development and Detection of Plant Disease Using Deep Learning
+REP-0157,X1_MULTI,Multi-class classification of plant leaf diseases using a hybrid deep neural transformer system and explainable AI techniques
+REP-0160,X1_MULTI,Plant leaf disease detection using local binary pattern and deep convolutional neural networks
+REP-0171,X8_MODALITY,Enhancing paddy leaf disease diagnosis -a hybrid CNN model using simulated thermal imaging
+REP-0180,X8_MODALITY,IFSA-Inception-CBAM: An Early Detection Model for Rice Blast Disease Based on Integrated Feature Selection and a Deep Convolutional Neural Network
+REP-0181,X8_MODALITY,XooNet: a high-throughput UAV-based approach for field screening of bacterial blight-resistant germplasm in wild rice
+REP-0199,X8_MODALITY,Rice bacterial blight resistant cultivar selection based on visible/near-infrared spectrum and deep learning
+REP-0203,X8_MODALITY,Energy-efficient UAV path planning for maize disease monitoring via generative data augmentation and uncertainty-guided navigation
+REP-0210,X1_MULTI,Advancing plant disease classification using an attention-based CNN for intra-dataset and cross- dataset training
+REP-0226,X1_MULTI,A real time monitoring system for accurate plant leaves disease detection using deep learning
+REP-0246,X8_MODALITY,Monitoring Rice Blast Disease Progression Through the Fusion of Time-Series Hyperspectral Imaging and Deep Learning
+REP-0255,X1_MULTI,Optimization of deep learning model for plant disease detection using particle swarm optimizer
+REP-0258,X1_MULTI,A sustainable approach to plant disease detection using deep learning framework for energy-efficient agricultural consumer electronics
+REP-0264,X8_MODALITY,Application of UAV-Based Imaging and Deep Learning in Assessment of Rice Blast Resistance
+REP-0272,X1_MULTI,Contrast limited adaptive histogram equalization (CLAHE) and colour difference histogram (CDH) feature merging capsule network (CCFMCapsNet) for complex image recognition
+REP-0302,X8_MODALITY,Rice leaf blast classification method based on fused features and one-dimensional deep convolutional neural network
+REP-0315,X8_MODALITY,Hyperspectral Imaging Combined With Deep Transfer Learning for Rice Disease Detection
+REP-0317,X1_MULTI,ECNNA: Enhanced Convolutional Neural Network with Attention Mechanism for Plant Leaf Disease Classification
+REP-0324,X1_MULTI,MCCM: multi-scale feature extraction network for disease classification and recognition of chili leaves
+REP-0331,X1_MULTI,CropsDisNet: An AI-Based Platform for Disease Detection and Advancing On-Farm Privacy Solutions
+REP-0337,X1_MULTI,General retrieval network model for multi-class plant leaf diseases based on hashing
+REP-0347,X1_MULTI,Discrimination of leaf diseases in Maize/Soybean intercropping system based on hyperspectral imaging
+REP-0359,X1_MULTI,Identification of Leaf Disease Based on Memristor Convolutional Neural Networks
+REP-0367,X1_MULTI,CSIU-Net+: Pepper and corn leaves classification and severity identification using hybrid optimization
+REP-0369,X1_MULTI,A novel ensemble learning method for crop leaf disease recognition
+REP-0373,X8_MODALITY,Xoo-YOLO: a detection method for wild rice bacterial blight in the field from the perspective of unmanned aerial vehicles
+REP-0380,X8_MODALITY,Evaluation of rice bacterial blight severity from lab to field with hyperspectral imaging technique
+REP-0388,X1_MULTI,Lightweight dual-stage feature refinement for black gram leaf disease classification using ConViTSE
+REP-0405,X1_MULTI,Plant disease diagnosis and image classification using deep learning
+REP-0418,X1_MULTI,Explainable artificial-intelligence-based hyperspectral image analysis for leaf disease detection in intercropping system
+REP-0420,X8_MODALITY,Enhanced paddy leaf disease detection using novel dual metaheuristic loss functions in generative adversarial networks with identity block preservation for thermal image augmentation
+REP-0422,X8_MODALITY,Hyperspectral Imaging Combined with a Dual-Channel Feature Fusion Model for Hierarchical Detection of Rice Blast
+REP-0434,X1_MULTI,Explainable Deep Learning for Plant Leaf Diseases: A Comparative Study of Grad-CAM
+REP-0435,X1_MULTI,Plant disease identification using shallow convolutional neural network
+REP-0439,X1_MULTI,Bangladeshi crops leaf disease detection using YOLOv8
+REP-0441,X1_MULTI,Multi-kernel inception-enhanced vision transformer for plant leaf disease recognition
+REP-0444,X8_MODALITY,UAV-Derived Multispectral Datasets and Index-Guided Segmentation for Maize Water Stress and Common Rust Detection Under Real Field Conditions
+REP-0450,X1_MULTI,Smart intercropping system to detect leaf disease using hyperspectral imaging and hybrid deep learning for precision agriculture
+REP-0465,X8_MODALITY,A ConvNeXt–LiteMamba Dual-Branch Network for Detection of Rice Blast Disease via Hyperspectral Imaging
+REP-0481,X1_MULTI,Leaf disease detection and classification in food crops with efficient feature dimensionality reduction
+REP-0497,X8_MODALITY,Field-scale detection of Bacterial Leaf Blight in rice based on UAV multispectral imaging and deep learning frameworks
+REP-0508,X1_MULTI,A Deep Learning Approach for Crop Disease and Pest Classification Using Swin Transformer and Dual-Attention Multi-Scale Fusion Network
+REP-0538,X8_MODALITY,ESA-Former: An efficient spectral-aware Transformer for multispectral rice blast disease severity assessment
+REP-0590,X8_MODALITY,Deep learning-based plant classification and crop disease classification by thermal camera
+REP-0616,X8_MODALITY,RiceDPD-YOLO: An Illumination-Robust Detector for PTZ-Based Automatic Monitoring of Disease- and Pest-Induced Damage in Rice Canopies
+REP-0689,X1_MULTI,A multi-class hybrid variational autoencoder and vision transformer model for enhanced plant disease identification
+REP-0718,X1_MULTI,Portable real-time crop health assessment for diseases and nutrient issues with lightweight neural networks and RGB captures
+REP-0844,X1_MULTI,Distributed crop disease detection with deep Q-network agent decision-making in a compressed state space
+REP-0969,X8_MODALITY,Field-based hyperspectral monitoring of southern corn rust incubation

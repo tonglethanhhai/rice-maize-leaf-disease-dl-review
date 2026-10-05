@@ -1,0 +1,33 @@
+{
+ "dataset": "kaggle_cornmaize",
+ "classes": [
+  "Blight",
+  "Common_Rust",
+  "Gray_Leaf_Spot",
+  "Healthy"
+ ],
+ "protocols": {
+  "P1m_leak_matched": {
+   "test_acc": {
+    "mean": 0.985,
+    "sd": 0.0047
+   },
+   "test_macro_f1": {
+    "mean": 0.9802,
+    "sd": 0.0069
+   },
+   "n_seeds": 5
+  },
+  "P3m_offline_matched": {
+   "test_acc": {
+    "mean": 0.9669,
+    "sd": 0.0037
+   },
+   "test_macro_f1": {
+    "mean": 0.9579,
+    "sd": 0.0039
+   },
+   "n_seeds": 5
+  }
+ }
+}
