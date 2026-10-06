@@ -16,7 +16,7 @@ computed on all 202 studies and can be checked here.
 ## Checking the numbers
 
 This repository holds data only. The analysis code is not published; it is available from the authors on
-reasonable request. `number_checks.txt` lists the 57 checks that the authors' verification script runs against
+reasonable request. `number_checks.txt` lists the 61 checks that the authors' verification script runs against
 the numbers reported in the paper, using exactly the files in this repository; all pass for this release.
 `supplementary.pdf` is the supplementary material of the paper (search strings, protocol amendments, leakage-sign
 rules, selection rule and statistical formulas) and `prisma2020_checklist.pdf` its PRISMA 2020 checklist.
@@ -60,7 +60,7 @@ Added after an internal critical review of the manuscript; every number below is
 | Protocol amendment of 2026-10-04: the blanket L3 rule for the Kaggle "Corn or Maize" set was withdrawn because it has ~0.5 % duplicates and no pre-augmented copies; 18 studies relabelled from their own protocol | `04_included/leakage_relabel_L3_2026-10-04.csv` |
 | Review fixes of 2026-10-05 after an independent review: three reports without a held-out set (L5) excluded at gate 3; REP-0229 re-included as suspected leakage; L4 (augmented copies of test images inside the test set) kept as a flag only, so two L4-only studies became clean; REP-0037 coded as having an external test | `04_included/review_fixes_round6_2026-10-05.csv` |
 | Provenance of the controlled experiment: exact commands, the lenient group file `images.csv` used by GROUP-SPLIT (SHA-256), and a check that re-creates the GROUP-SPLIT splits | `leakage_experiments/RUN_COMMANDS.md`, `leakage_experiments/results/*/images.csv` |
-| Controlled experiment: same data and ResNet-50; only the split protocol changes (augment-then-split, random image split, near-duplicate group split; 3 seeds). AUG-SPLIT adds five offline copies per image before splitting, so it trains on about six times more items and its validation and test sets contain augmented copies; AUG-SPLIT vs GROUP-SPLIT measures the whole augment-then-split protocol, not leakage at equal training size on Sethy, PlantVillage maize (+ PlantDoc external test) and Kaggle "Corn or Maize" | `leakage_experiments/results/*/runs.csv`, `04_included/leakage_experiment_summary.json` |
+| Controlled experiment: same data and ResNet-50; only the split protocol changes (augment-then-split, random image split, near-duplicate group split; 5 seeds). AUG-SPLIT adds five offline copies per image before splitting, so it trains on about six times more items and its validation and test sets contain augmented copies; AUG-SPLIT vs GROUP-SPLIT measures the whole augment-then-split protocol, not leakage at equal training size, on Sethy, PlantVillage maize (+ PlantDoc external test), Kaggle "Corn or Maize" and Paddy Doctor | `leakage_experiments/results/*/runs.csv`, `04_included/leakage_experiment_summary.json` |
 | Matched pair at equal training budget (MATCH-CTRL vs MATCH-LEAK: same split, same training images and copies, same number of training items per epoch, untouched validation and test sets; MATCH-LEAK adds augmented copies of the test images to training). ResNet-50 and EfficientNet-B0 on four datasets (Sethy, PlantVillage maize, Kaggle Corn or Maize, Paddy Doctor), 5 seeds each | `leakage_experiments/results_matched*/*/runs.csv`, `04_included/leakage_experiment_matched_summary.json` |
 
 Current leakage coding of the 202 studies: clean 116, suspect 52, unknown 34. The images themselves are not

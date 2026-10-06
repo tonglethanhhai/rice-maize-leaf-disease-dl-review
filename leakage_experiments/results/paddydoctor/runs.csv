@@ -1,0 +1,16 @@
+dataset,arch,protocol,seed,n_train,n_train_originals,items_per_epoch,n_val,n_test,val_acc,test_acc,test_macro_f1,epochs_run,minutes
+paddydoctor,resnet50,P1_augment_then_split,0,43709,7284,43709,6245,12488,0.98607,0.9839,0.98342,20,98.1
+paddydoctor,resnet50,P1_augment_then_split,1,43709,7297,43709,6245,12488,0.98559,0.98511,0.98512,20,97.5
+paddydoctor,resnet50,P1_augment_then_split,2,43709,7280,43709,6245,12488,0.98655,0.9839,0.98364,20,98.1
+paddydoctor,resnet50,P1_augment_then_split,3,43709,7353,43709,6245,12488,0.98607,0.98422,0.98364,20,97.1
+paddydoctor,resnet50,P1_augment_then_split,4,43709,7317,43709,6245,12488,0.98543,0.98358,0.98254,20,96.6
+paddydoctor,resnet50,P2_random_image_split,0,7285,7285,7285,1041,2081,0.97598,0.97117,0.9697,20,16.5
+paddydoctor,resnet50,P2_random_image_split,1,7285,7285,7285,1041,2081,0.97887,0.97069,0.96893,20,16.1
+paddydoctor,resnet50,P2_random_image_split,2,7285,7285,7285,1041,2081,0.9731,0.97645,0.977,20,16.1
+paddydoctor,resnet50,P2_random_image_split,3,7285,7285,7285,1041,2081,0.97695,0.97886,0.97884,20,16.1
+paddydoctor,resnet50,P2_random_image_split,4,7285,7285,7285,1041,2081,0.97791,0.97261,0.97199,20,16.4
+paddydoctor,resnet50,P3_group_split,0,7275,7275,7275,1045,2087,0.96842,0.95113,0.94493,17,14.2
+paddydoctor,resnet50,P3_group_split,1,7238,7238,7238,1057,2112,0.9508,0.96828,0.96151,20,16.4
+paddydoctor,resnet50,P3_group_split,2,7303,7303,7303,1042,2062,0.96065,0.96411,0.95618,20,16.8
+paddydoctor,resnet50,P3_group_split,3,7242,7242,7242,1074,2091,0.96369,0.96509,0.96216,20,16.5
+paddydoctor,resnet50,P3_group_split,4,7248,7248,7248,1051,2108,0.96194,0.96205,0.95836,20,16.7

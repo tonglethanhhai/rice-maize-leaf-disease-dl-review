@@ -14,31 +14,31 @@
    },
    "test_macro_f1": {
     "mean": 0.9998,
-    "sd": 0.0003
+    "sd": 0.0002
    },
-   "n_seeds": 3
+   "n_seeds": 5
   },
   "P2_random_image_split": {
    "test_acc": {
-    "mean": 0.9975,
-    "sd": 0.0025
+    "mean": 0.9985,
+    "sd": 0.0023
    },
    "test_macro_f1": {
-    "mean": 0.9975,
-    "sd": 0.0025
+    "mean": 0.9985,
+    "sd": 0.0022
    },
-   "n_seeds": 3
+   "n_seeds": 5
   },
   "P3_group_split": {
    "test_acc": {
-    "mean": 0.9916,
-    "sd": 0.004
+    "mean": 0.9949,
+    "sd": 0.0054
    },
    "test_macro_f1": {
-    "mean": 0.9913,
-    "sd": 0.0042
+    "mean": 0.9948,
+    "sd": 0.0056
    },
-   "n_seeds": 3
+   "n_seeds": 5
   }
  }
 }

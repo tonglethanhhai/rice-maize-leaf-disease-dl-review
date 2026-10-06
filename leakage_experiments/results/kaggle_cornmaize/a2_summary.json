@@ -9,36 +9,36 @@
  "protocols": {
   "P1_augment_then_split": {
    "test_acc": {
-    "mean": 0.989,
-    "sd": 0.0031
-   },
-   "test_macro_f1": {
-    "mean": 0.9856,
+    "mean": 0.9882,
     "sd": 0.0036
    },
-   "n_seeds": 3
+   "test_macro_f1": {
+    "mean": 0.9845,
+    "sd": 0.0044
+   },
+   "n_seeds": 5
   },
   "P2_random_image_split": {
    "test_acc": {
-    "mean": 0.9714,
-    "sd": 0.0073
+    "mean": 0.9654,
+    "sd": 0.0099
    },
    "test_macro_f1": {
-    "mean": 0.9644,
-    "sd": 0.0069
+    "mean": 0.9561,
+    "sd": 0.0123
    },
-   "n_seeds": 3
+   "n_seeds": 5
   },
   "P3_group_split": {
    "test_acc": {
-    "mean": 0.9642,
-    "sd": 0.0077
+    "mean": 0.9645,
+    "sd": 0.0063
    },
    "test_macro_f1": {
-    "mean": 0.9535,
-    "sd": 0.0112
+    "mean": 0.9542,
+    "sd": 0.009
    },
-   "n_seeds": 3
+   "n_seeds": 5
   }
  }
 }

@@ -59,9 +59,13 @@ Near-duplicate measurements (script 31)
 [PASS] L3 relabel log rows: 18
 
 Controlled split experiment (script 34, leakage_experiments/results/*/runs.csv)
-[PASS] controlled split experiment: AUG-SPLIT - GROUP-SPLIT test accuracy (points), Sethy / PV corn / Kaggle corn: (np.float64(0.83), np.float64(1.85), np.float64(2.47))
-[PASS] PlantVillage corn -> PlantDoc external accuracy range over protocols (%): (np.float64(28.7), np.float64(33.2))
-[PASS] GROUP-SPLIT split sizes reproduced from the lenient group file images.csv (runs): (9, 9)
+[PASS] controlled split experiment: AUG-SPLIT - GROUP-SPLIT test accuracy (points), Sethy / PV corn / Kaggle corn: (np.float64(0.49), np.float64(1.59), np.float64(2.37))
+[PASS] Paddy Doctor (verified groups): AUG-SPLIT - GROUP-SPLIT and RAND-SPLIT - GROUP-SPLIT test accuracy (points): (np.float64(2.2), np.float64(1.18))
+[PASS] Paddy Doctor panel A runs (3 protocols x 5 seeds): 15
+[PASS] PlantVillage corn -> PlantDoc external accuracy range over protocols (%): (np.float64(27.9), np.float64(32.1))
+[PASS] GROUP-SPLIT split sizes reproduced from the lenient group file images.csv (runs): (15, 15)
+[PASS] Paddy Doctor GROUP-SPLIT split sizes reproduced from the verified group file (runs): (5, 5)
+[PASS] training runs in the experiment and total GPU hours (Table 16): (140, 34.8)
 
 Matched pair at equal training budget (MATCH-CTRL vs MATCH-LEAK)
 [PASS] MATCH-LEAK - MATCH-CTRL test accuracy, ResNet-50: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.56, 1.17, 1.81, 2.8)
