@@ -45,6 +45,10 @@ Leakage re-analysis and external-test gap (scripts 27, 28)
 [PASS] ... plus other invalid protocols: (48.2, 43.0, 53.5)
 [PASS] Hodges-Lehmann shift, suspect - clean (points): 1.05
 [PASS] results >= 99.5%, clean / suspect: (6, 11)
+[PASS] without Sethy: n clean / suspect, Hodges-Lehmann shift: (85, 30, 0.56)
+[PASS] without Sethy: Mann-Whitney p: 0.17
+[PASS] without Sethy: results >= 99.5% clean / suspect, Fisher p: ((6, 4), 0.28)
+[PASS] original images per study: n, lower quartile, median: (189, 2112.0, 4000.0)
 [PASS] explicit-leakage CLS accuracy (n, median): (66, 97.95)
 [PASS] van Elteren within-source p (stored): 0.2
 [PASS] rank regression with source FE, p (stored): 0.19
@@ -67,12 +71,15 @@ Controlled split experiment (script 34, leakage_experiments/results/*/runs.csv)
 [PASS] Paddy Doctor GROUP-SPLIT split sizes reproduced from the verified group file (runs): (5, 5)
 [PASS] training runs in the experiment and total GPU hours (Table 16): (140, 34.8)
 
-Matched pair at equal training budget (MATCH-CTRL vs MATCH-LEAK)
+Matched pair with equal samples per epoch (MATCH-CTRL vs MATCH-LEAK)
 [PASS] MATCH-LEAK - MATCH-CTRL test accuracy, ResNet-50: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.56, 1.17, 1.81, 2.8)
 [PASS] seeds per dataset, ResNet-50: (5, 5, 5, 5)
 [PASS] MATCH-LEAK - MATCH-CTRL test accuracy, EfficientNet-B0: Sethy / PV corn / Kaggle corn / Paddy Doctor (points): (0.47, 1.56, 2.83, 2.63)
 [PASS] seeds per dataset, EfficientNet-B0: (5, 5, 5, 5)
 [PASS] both arms: same validation set, test set and training items per epoch in every run: (8, 8)
+[PASS] MATCH-LEAK / MATCH-CTRL total updates (min, max over 8 cells): (0.76, 1.5)
+[PASS] epoch difference vs accuracy gain: Spearman rho, p, pairs: (0.39, 0.01, 40)
+[PASS] pairs where MATCH-LEAK ran no more epochs: n, mean gain, n positive: (21, 1.35, 17)
 [PASS] PlantVillage maize -> PlantDoc external accuracy, ResNet-50 then EfficientNet-B0 (CTRL, LEAK, %): (29.6, 31.9, 27.8, 32.9)
 
 All checks passed.
