@@ -1,6 +1,6 @@
-# Deep learning for rice and maize leaf disease recognition, 2016–2026: review data and evidence tables
+# Deep Learning for Leaf Disease Recognition in Rice and Maize: A Systematic Review of Vision Tasks and an Audit of Data Leakage in Model Evaluation
 
-Supplementary repository for the systematic review *Deep Learning for Rice and Maize Leaf Disease Classification, Detection, Segmentation, and Generation: A Systematic and Experimental Review with a Data Leakage Audit* by Thanh-Hai Tong-Le, Minh-Hai Le and Thanh-Nghi Doan (submitted to the Journal of Electrical and Computer Engineering; the article DOI will be added on acceptance).  
+Supplementary repository for the systematic review *Deep Learning for Leaf Disease Recognition in Rice and Maize: A Systematic Review of Vision Tasks and an Audit of Data Leakage in Model Evaluation* by Thanh-Hai Tong-Le, Minh-Hai Le and Thanh-Nghi Doan (submitted to the Journal of Electrical and Computer Engineering; the article DOI will be added on acceptance).  
 **Zenodo (all versions):** [10.5281/zenodo.23151397](https://doi.org/10.5281/zenodo.23151397)  
 **OSF Registration:** [https://osf.io/fwz4s](https://osf.io/fwz4s) (DOI: [10.17605/OSF.IO/FWZ4S](https://doi.org/10.17605/OSF.IO/FWZ4S))
 
@@ -18,8 +18,9 @@ computed on all 202 studies and can be checked here.
 This repository holds data only. The analysis code is not published; it is available from the authors on
 reasonable request. `number_checks.txt` lists the 68 checks that the authors' verification script runs against
 the numbers reported in the paper, using exactly the files in this repository; all pass for this release.
-`supplementary.pdf` is the supplementary material of the paper (search strings, protocol amendments, leakage-sign
-rules, selection rule and statistical formulas) and `prisma2020_checklist.pdf` its PRISMA 2020 checklist.
+`supplementary.pdf` is the supplementary material of the paper (contribution of each database, protocol
+amendments, leakage-sign rules, selection rule and statistical formulas; the verbatim search strings are
+Table 2 of the article itself) and `prisma2020_checklist.pdf` its PRISMA 2020 checklist.
 
 ## PRISMA 2020 flow
 

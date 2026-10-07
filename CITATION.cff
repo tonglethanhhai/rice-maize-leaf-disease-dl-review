@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite the review article and this dataset."
-title: "Deep learning for rice and maize leaf disease recognition, 2016-2026: review data, evidence tables and leakage experiments"
+title: "Deep Learning for Leaf Disease Recognition in Rice and Maize: A Systematic Review of Vision Tasks and an Audit of Data Leakage in Model Evaluation"
 type: dataset
-version: "1.3.4"
-date-released: "2026-10-06"
+version: "1.3.5"
+date-released: "2026-10-07"
 authors:
   - family-names: "Tong-Le"
     given-names: "Thanh-Hai"
@@ -36,7 +36,7 @@ identifiers:
     description: "OSF registration of the review protocol"
 preferred-citation:
   type: article
-  title: "Deep Learning for Rice and Maize Leaf Disease Classification, Detection, Segmentation, and Generation: A Systematic and Experimental Review with a Data Leakage Audit"
+  title: "Deep Learning for Leaf Disease Recognition in Rice and Maize: A Systematic Review of Vision Tasks and an Audit of Data Leakage in Model Evaluation"
   authors:
     - family-names: "Tong-Le"
       given-names: "Thanh-Hai"

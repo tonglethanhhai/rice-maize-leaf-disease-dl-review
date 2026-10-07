@@ -1,5 +1,5 @@
 {
-  "title": "Deep learning for rice and maize leaf disease recognition: systematic review data and leakage experiments",
+  "title": "Deep Learning for Leaf Disease Recognition in Rice and Maize: A Systematic Review of Vision Tasks and an Audit of Data Leakage in Model Evaluation",
   "upload_type": "dataset",
   "description": "Search records, screening decisions, full-text assessment, coding of 202 included studies, evidence tables, near-duplicate measurements of six public datasets, controlled leakage experiments, the supplementary material and PRISMA 2020 checklist of the paper, and the list of checks run against every reported number (number_checks.txt). Data only: the analysis code is available from the authors on request. Review protocol: OSF Registries 10.17605/OSF.IO/FWZ4S.",
   "creators": [
@@ -36,7 +36,7 @@
       "scheme": "doi"
     }
   ],
-  "notes": "Data CC BY 4.0. The analysis code is not published and is available from the authors on request. Full texts of the reviewed articles are not redistributed. Version 1.3.4: supplement revised after peer review (S3 lists the differences between the OSF registration and the review as conducted and maps the registered exclusion codes E1-E6 to the actual steps; new S7 specifies the controlled experiment); number_checks.txt has 68 checks, all passing; README and protocol wording aligned with the paper (equal samples per epoch; role of the AI tool).",
-  "version": "1.3.4",
+  "notes": "Data CC BY 4.0. The analysis code is not published and is available from the authors on request. Full texts of the reviewed articles are not redistributed. Version 1.3.5: the verbatim search strings of all four databases are now Table 2 of the article itself, so the supplement no longer repeats them and its tables are renumbered S1-S4; section S3 records that the OSF registration was updated on 7 October 2026 and which registered fields still differ; the article title is updated. number_checks.txt has 68 checks, all passing.",
+  "version": "1.3.5",
   "license": "cc-by-4.0"
 }
